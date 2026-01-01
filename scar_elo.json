@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-01-01T01:41:33.425201",
+    "generated_at": "2026-01-01T02:54:10.327750",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-01-01T01:40:55.218960",
+        "generated_at": "2026-01-01T02:53:32.824128",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -4749,7 +4749,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-01-01T01:41:03.290994",
+        "generated_at": "2026-01-01T02:53:40.909345",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -4801,7 +4801,7 @@
             1564,
             1574,
             1584,
-            1595,
+            1594,
             1581,
             1565,
             1577,
@@ -5227,7 +5227,7 @@
             1519,
             1529,
             1518,
-            1527,
+            1528,
             1516,
             1529,
             1545,
@@ -5579,7 +5579,7 @@
             1504,
             1513,
             1503,
-            1515,
+            1514,
             1505,
             1495
           ]
@@ -5873,7 +5873,7 @@
             1479,
             1498,
             1514,
-            1500,
+            1501,
             1485
           ]
         },
@@ -6035,13 +6035,13 @@
         },
         {
           "name": "ABYSS",
-          "current_rating": 1478,
+          "current_rating": 1479,
           "fights": 2,
           "tier": "D",
           "rating_history": [
             1500,
             1489,
-            1478
+            1479
           ]
         },
         {
@@ -6104,8 +6104,8 @@
             1479,
             1469,
             1482,
-            1472,
-            1486,
+            1473,
+            1487,
             1500,
             1516,
             1505,
@@ -7904,7 +7904,7 @@
           "player_a": "Magnitude",
           "player_b": "Saurian",
           "player_a_rating_before": 1513,
-          "player_a_rating_after": 1501,
+          "player_a_rating_after": 1502,
           "player_b_rating_before": 1507,
           "player_b_rating_after": 1518
         },
@@ -7916,7 +7916,7 @@
           "player_a_rating_before": 1474,
           "player_a_rating_after": 1465,
           "player_b_rating_before": 1513,
-          "player_b_rating_after": 1523
+          "player_b_rating_after": 1522
         },
         {
           "event": "MFOC1lb",
@@ -7995,7 +7995,7 @@
           "player_b": "Magnitude",
           "player_a_rating_before": 1482,
           "player_a_rating_after": 1472,
-          "player_b_rating_before": 1501,
+          "player_b_rating_before": 1502,
           "player_b_rating_after": 1512
         },
         {
@@ -8063,7 +8063,7 @@
           "timestamp": "2024-09-15T04:34:39",
           "player_a": "Pounce De Leon",
           "player_b": "Sabre",
-          "player_a_rating_before": 1523,
+          "player_a_rating_before": 1522,
           "player_a_rating_after": 1511,
           "player_b_rating_before": 1513,
           "player_b_rating_after": 1524
@@ -8196,7 +8196,7 @@
           "player_a_rating_before": 1533,
           "player_a_rating_after": 1543,
           "player_b_rating_before": 1500,
-          "player_b_rating_after": 1491
+          "player_b_rating_after": 1490
         },
         {
           "event": "MFOC1lb",
@@ -8256,7 +8256,7 @@
           "player_a_rating_before": 1564,
           "player_a_rating_after": 1575,
           "player_b_rating_before": 1555,
-          "player_b_rating_after": 1545
+          "player_b_rating_after": 1544
         },
         {
           "event": "scarhalloween1lb2024",
@@ -8764,7 +8764,7 @@
           "player_a": "The Bomb",
           "player_b": "Saurian",
           "player_a_rating_before": 1533,
-          "player_a_rating_after": 1519,
+          "player_a_rating_after": 1518,
           "player_b_rating_before": 1568,
           "player_b_rating_after": 1583
         },
@@ -9153,7 +9153,7 @@
           "timestamp": "2025-09-13T19:49:44",
           "player_a": "The Bomb",
           "player_b": "Not Alive Yet",
-          "player_a_rating_before": 1519,
+          "player_a_rating_before": 1518,
           "player_a_rating_after": 1502,
           "player_b_rating_before": 1516,
           "player_b_rating_after": 1532
@@ -9529,7 +9529,7 @@
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-01-01T01:41:15.168801",
+        "generated_at": "2026-01-01T02:53:52.128609",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -9750,8 +9750,8 @@
             1580,
             1591,
             1601,
-            1612,
-            1623,
+            1611,
+            1622,
             1633,
             1644,
             1626,
@@ -9782,7 +9782,7 @@
             1541,
             1554,
             1539,
-            1555,
+            1556,
             1540,
             1523,
             1538,
@@ -15777,7 +15777,7 @@
           "player_a": "B-Annoyed",
           "player_b": "Danger Zone",
           "player_a_rating_before": 1579,
-          "player_a_rating_after": 1559,
+          "player_a_rating_after": 1560,
           "player_b_rating_before": 1497,
           "player_b_rating_after": 1517
         },
@@ -15846,7 +15846,7 @@
           "timestamp": "2025-09-14T12:38:20",
           "player_a": "B-Annoyed",
           "player_b": "Leo Bot",
-          "player_a_rating_before": 1559,
+          "player_a_rating_before": 1560,
           "player_a_rating_after": 1575,
           "player_b_rating_before": 1546,
           "player_b_rating_after": 1531
@@ -16392,7 +16392,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-01-01T01:41:22.235579",
+        "generated_at": "2026-01-01T02:53:59.214141",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -20618,7 +20618,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-01-01T01:41:26.282705",
+        "generated_at": "2026-01-01T02:54:03.259674",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -22114,7 +22114,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-01-01T01:41:30.321327",
+        "generated_at": "2026-01-01T02:54:07.299138",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -23316,7 +23316,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-01-01T01:41:33.425201",
+        "generated_at": "2026-01-01T02:54:10.327239",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
