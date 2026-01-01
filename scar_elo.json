@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-01-01T03:16:56.261136",
+    "generated_at": "2026-01-01T03:26:14.955894",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-01-01T03:16:19.053904",
+        "generated_at": "2026-01-01T03:25:37.749696",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -4749,7 +4749,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-01-01T03:16:27.112915",
+        "generated_at": "2026-01-01T03:25:45.787703",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -8764,7 +8764,7 @@
           "player_a": "The Bomb",
           "player_b": "Saurian",
           "player_a_rating_before": 1533,
-          "player_a_rating_after": 1518,
+          "player_a_rating_after": 1519,
           "player_b_rating_before": 1568,
           "player_b_rating_after": 1583
         },
@@ -9153,7 +9153,7 @@
           "timestamp": "2025-09-13T19:49:44",
           "player_a": "The Bomb",
           "player_b": "Not Alive Yet",
-          "player_a_rating_before": 1518,
+          "player_a_rating_before": 1519,
           "player_a_rating_after": 1502,
           "player_b_rating_before": 1516,
           "player_b_rating_after": 1532
@@ -9529,7 +9529,7 @@
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-01-01T03:16:38.166023",
+        "generated_at": "2026-01-01T03:25:56.867049",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -16392,7 +16392,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-01-01T03:16:45.207422",
+        "generated_at": "2026-01-01T03:26:03.907351",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -20618,7 +20618,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-01-01T03:16:49.222950",
+        "generated_at": "2026-01-01T03:26:07.926240",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -22114,7 +22114,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-01-01T03:16:53.249979",
+        "generated_at": "2026-01-01T03:26:11.942309",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -23316,7 +23316,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-01-01T03:16:56.261136",
+        "generated_at": "2026-01-01T03:26:14.955894",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
