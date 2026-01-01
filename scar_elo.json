@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-01-01T03:26:14.955894",
+    "generated_at": "2026-01-01T03:33:17.680565",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-01-01T03:25:37.749696",
+        "generated_at": "2026-01-01T03:32:40.505398",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -4749,7 +4749,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-01-01T03:25:45.787703",
+        "generated_at": "2026-01-01T03:32:48.548374",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -9529,7 +9529,7 @@
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-01-01T03:25:56.867049",
+        "generated_at": "2026-01-01T03:32:59.603613",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -16392,7 +16392,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-01-01T03:26:03.907351",
+        "generated_at": "2026-01-01T03:33:06.644973",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -20618,7 +20618,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-01-01T03:26:07.926240",
+        "generated_at": "2026-01-01T03:33:10.658442",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -22114,7 +22114,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-01-01T03:26:11.942309",
+        "generated_at": "2026-01-01T03:33:14.669227",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -23316,7 +23316,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-01-01T03:26:14.955894",
+        "generated_at": "2026-01-01T03:33:17.680565",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
