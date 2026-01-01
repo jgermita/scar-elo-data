@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-01-01T01:12:14.258596",
+    "generated_at": "2026-01-01T01:41:33.425201",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-01-01T01:11:36.901675",
+        "generated_at": "2026-01-01T01:40:55.218960",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -4749,7 +4749,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-01-01T01:11:44.976968",
+        "generated_at": "2026-01-01T01:41:03.290994",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -5015,7 +5015,7 @@
             1559,
             1569,
             1580,
-            1593,
+            1594,
             1579,
             1591,
             1602,
@@ -6013,7 +6013,7 @@
             1492,
             1504,
             1490,
-            1508,
+            1507,
             1492,
             1477,
             1493,
@@ -8434,7 +8434,7 @@
           "player_a": "No Name",
           "player_b": "Knockoff",
           "player_a_rating_before": 1573,
-          "player_a_rating_after": 1559,
+          "player_a_rating_after": 1558,
           "player_b_rating_before": 1526,
           "player_b_rating_after": 1540
         },
@@ -8453,7 +8453,7 @@
           "timestamp": "2024-10-26T17:11:07",
           "player_a": "No Name",
           "player_b": "Scorch",
-          "player_a_rating_before": 1559,
+          "player_a_rating_before": 1558,
           "player_a_rating_after": 1545,
           "player_b_rating_before": 1538,
           "player_b_rating_after": 1551
@@ -9529,7 +9529,7 @@
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-01-01T01:11:56.085832",
+        "generated_at": "2026-01-01T01:41:15.168801",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -9588,7 +9588,7 @@
             1697,
             1707,
             1691,
-            1697,
+            1698,
             1706,
             1719,
             1730,
@@ -9782,7 +9782,7 @@
             1541,
             1554,
             1539,
-            1556,
+            1555,
             1540,
             1523,
             1538,
@@ -9806,7 +9806,7 @@
         },
         {
           "name": "Mod Bot",
-          "current_rating": 1580,
+          "current_rating": 1581,
           "fights": 42,
           "tier": "A",
           "rating_history": [
@@ -9852,7 +9852,7 @@
             1579,
             1601,
             1590,
-            1580
+            1581
           ]
         },
         {
@@ -15777,7 +15777,7 @@
           "player_a": "B-Annoyed",
           "player_b": "Danger Zone",
           "player_a_rating_before": 1579,
-          "player_a_rating_after": 1560,
+          "player_a_rating_after": 1559,
           "player_b_rating_before": 1497,
           "player_b_rating_after": 1517
         },
@@ -15846,7 +15846,7 @@
           "timestamp": "2025-09-14T12:38:20",
           "player_a": "B-Annoyed",
           "player_b": "Leo Bot",
-          "player_a_rating_before": 1560,
+          "player_a_rating_before": 1559,
           "player_a_rating_after": 1575,
           "player_b_rating_before": 1546,
           "player_b_rating_after": 1531
@@ -16392,7 +16392,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-01-01T01:12:03.161390",
+        "generated_at": "2026-01-01T01:41:22.235579",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -20618,7 +20618,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-01-01T01:12:07.191726",
+        "generated_at": "2026-01-01T01:41:26.282705",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -21731,7 +21731,7 @@
           "player_a_rating_before": 1500,
           "player_a_rating_after": 1486,
           "player_b_rating_before": 1554,
-          "player_b_rating_after": 1568
+          "player_b_rating_after": 1567
         },
         {
           "event": "MFOC12lb2025",
@@ -21770,7 +21770,7 @@
           "player_b": "Whomper",
           "player_a_rating_before": 1550,
           "player_a_rating_after": 1567,
-          "player_b_rating_before": 1568,
+          "player_b_rating_before": 1567,
           "player_b_rating_after": 1551
         },
         {
@@ -22114,7 +22114,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-01-01T01:12:11.239269",
+        "generated_at": "2026-01-01T01:41:30.321327",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -23316,7 +23316,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-01-01T01:12:14.258596",
+        "generated_at": "2026-01-01T01:41:33.425201",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
