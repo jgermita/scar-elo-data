@@ -209,6 +209,30 @@
             "bot_url": "https://www.robotcombatevents.com/groups/318/resources/2019",
             "team_url": "https://www.robotcombatevents.com/groups/318",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/2019/sunset_4.0.jpg"
+        },
+        "BLITZAR": {
+            "team": "Fall Damage Combat Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/1878/resources/8380",
+            "team_url": "https://www.robotcombatevents.com/groups/1878",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/8380/Screenshot_20231010_202758_Gallery_11zon.jpg"
+        },
+        "Unreasonable Expectations": {
+            "team": "Billet Bros Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/476/resources/8763",
+            "team_url": "https://www.robotcombatevents.com/groups/476",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "FAST TRACK": {
+            "team": "Team plan b",
+            "bot_url": "https://www.robotcombatevents.com/groups/313/resources/2017",
+            "team_url": "https://www.robotcombatevents.com/groups/313",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/2017/nyoom.png"
+        },
+        "Aluminum Box": {
+            "team": "Unoriginal Ideas",
+            "bot_url": "https://www.robotcombatevents.com/groups/2665/resources/9749",
+            "team_url": "https://www.robotcombatevents.com/groups/2665",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
         }
     },
     "1lb": {
@@ -714,7 +738,7 @@
             "team": "Team Spectrum",
             "bot_url": "https://www.robotcombatevents.com/groups/2793/resources/17928",
             "team_url": "https://www.robotcombatevents.com/groups/2793",
-            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/17928/Screenshot_2025-09-03_213508.png"
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/17928/Screenshot_2026-01-01_221137.png"
         },
         "sistrurus": {
             "team": "Crotalidae",
@@ -877,6 +901,66 @@
             "bot_url": "https://www.robotcombatevents.com/groups/736/resources/6632",
             "team_url": "https://www.robotcombatevents.com/groups/736",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/6632/IMG_6484.jpg"
+        },
+        "Andrew\u2019s Malice": {
+            "team": "Playbot",
+            "bot_url": "https://www.robotcombatevents.com/groups/638/resources/4226",
+            "team_url": "https://www.robotcombatevents.com/groups/638",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/4226/AndrewsMalice_copy.jpg"
+        },
+        "Chivvy": {
+            "team": "Hall Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/2542/resources/9070",
+            "team_url": "https://www.robotcombatevents.com/groups/2542",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/9070/IMG_7813.jpg"
+        },
+        "Wedge 1 and Wedge 2": {
+            "team": "Team Wedges",
+            "bot_url": "https://www.robotcombatevents.com/groups/978/resources/2888",
+            "team_url": "https://www.robotcombatevents.com/groups/978",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/2888/image0.jpeg"
+        },
+        "TBD Robot Name": {
+            "team": "Team Already Broke",
+            "bot_url": "https://www.robotcombatevents.com/groups/137/resources/6557",
+            "team_url": "https://www.robotcombatevents.com/groups/137",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "Wedgemore": {
+            "team": "Team Wedges",
+            "bot_url": "https://www.robotcombatevents.com/groups/978/resources/4183",
+            "team_url": "https://www.robotcombatevents.com/groups/978",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/4183/IMG_4879.jpg"
+        },
+        "cerastes fc": {
+            "team": "Crotalidae",
+            "bot_url": "https://www.robotcombatevents.com/groups/1800/resources/9074",
+            "team_url": "https://www.robotcombatevents.com/groups/1800",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/9074/Sidewinder.jpg.jpeg"
+        },
+        "El Croc": {
+            "team": "El Camino Combat Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/2591/resources/9338",
+            "team_url": "https://www.robotcombatevents.com/groups/2591",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "The Hybrid": {
+            "team": "Xzonus Raptor",
+            "bot_url": "https://www.robotcombatevents.com/groups/2740/resources/9972",
+            "team_url": "https://www.robotcombatevents.com/groups/2740",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/9972/TheHybrid.jpg"
+        },
+        "Mostly Harmless": {
+            "team": "Team 42 Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/314/resources/3027",
+            "team_url": "https://www.robotcombatevents.com/groups/314",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/3027/IMG_2856.png"
+        },
+        "Spare parts": {
+            "team": "my garage",
+            "bot_url": "https://www.robotcombatevents.com/groups/1798/resources/10039",
+            "team_url": "https://www.robotcombatevents.com/groups/1798",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
         }
     },
     "plant": {
@@ -1653,6 +1737,108 @@
             "bot_url": "https://www.robotcombatevents.com/groups/7417/resources/18318",
             "team_url": "https://www.robotcombatevents.com/groups/7417",
             "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "Speedy": {
+            "team": "Sloth",
+            "bot_url": "https://www.robotcombatevents.com/groups/2631/resources/9609",
+            "team_url": "https://www.robotcombatevents.com/groups/2631",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "Hermit Inertia": {
+            "team": "Wedgetail",
+            "bot_url": "https://www.robotcombatevents.com/groups/2545/resources/9632",
+            "team_url": "https://www.robotcombatevents.com/groups/2545",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/9632/3ADAEC88-22C6-46FC-AC14-263F724C05A0_4_5005_c.jpg"
+        },
+        "Death on Wheels": {
+            "team": "Death on Wheels",
+            "bot_url": "https://www.robotcombatevents.com/groups/2626/resources/9591",
+            "team_url": "https://www.robotcombatevents.com/groups/2626",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "Boneknapper": {
+            "team": "Dragon Attack",
+            "bot_url": "https://www.robotcombatevents.com/groups/2164/resources/8665",
+            "team_url": "https://www.robotcombatevents.com/groups/2164",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "FlatspinAtHome": {
+            "team": "High Energy Failures",
+            "bot_url": "https://www.robotcombatevents.com/groups/1063/resources/5354",
+            "team_url": "https://www.robotcombatevents.com/groups/1063",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "Zippidy": {
+            "team": "Sloth",
+            "bot_url": "https://www.robotcombatevents.com/groups/2631/resources/9896",
+            "team_url": "https://www.robotcombatevents.com/groups/2631",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "VistaVision": {
+            "team": "Best Boy Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/2294/resources/9755",
+            "team_url": "https://www.robotcombatevents.com/groups/2294",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/9755/vistavision.jpg"
+        },
+        "Smack Down": {
+            "team": "Jank Bots",
+            "bot_url": "https://www.robotcombatevents.com/groups/1049/resources/9360",
+            "team_url": "https://www.robotcombatevents.com/groups/1049",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/9360/Smack_Down2.PNG"
+        },
+        "Big Christmas": {
+            "team": "Team Screwless",
+            "bot_url": "https://www.robotcombatevents.com/groups/2751/resources/10015",
+            "team_url": "https://www.robotcombatevents.com/groups/2751",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/10015/bigxmas.jpg"
+        },
+        "SLASH -N- BURN": {
+            "team": "BATTLE BORN BOTS",
+            "bot_url": "https://www.robotcombatevents.com/groups/2293/resources/8309",
+            "team_url": "https://www.robotcombatevents.com/groups/2293",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "Faultline": {
+            "team": "Level 5 Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/318/resources/1449",
+            "team_url": "https://www.robotcombatevents.com/groups/318",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/1449/PXL_20230611_144424986.jpg"
+        },
+        "NightWing": {
+            "team": "Team Yeti",
+            "bot_url": "https://www.robotcombatevents.com/groups/2053/resources/9505",
+            "team_url": "https://www.robotcombatevents.com/groups/2053",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/9505/NightWing_01.jpg"
+        },
+        "Fission Plastic": {
+            "team": "Shadow Combat Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/2085/resources/8947",
+            "team_url": "https://www.robotcombatevents.com/groups/2085",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/8947/Screenshot_20240607_212556_Photos.jpg"
+        },
+        "Rolling Thunder": {
+            "team": "ACE Robotics @ UCI",
+            "bot_url": "https://www.robotcombatevents.com/groups/1983/resources/9828",
+            "team_url": "https://www.robotcombatevents.com/groups/1983",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/9828/download-compresskaru.com.png"
+        },
+        "Zippidy-DooDa": {
+            "team": "Sloth",
+            "bot_url": "https://www.robotcombatevents.com/groups/2631/resources/9981",
+            "team_url": "https://www.robotcombatevents.com/groups/2631",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "ted": {
+            "team": "Uncivil Engineering",
+            "bot_url": "https://www.robotcombatevents.com/groups/652/resources/8138",
+            "team_url": "https://www.robotcombatevents.com/groups/652",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/8138/B34F3D2F-AD0D-4451-A7DD-7829562228DD.png"
+        },
+        "Wedge 5": {
+            "team": "Team Wedges",
+            "bot_url": "https://www.robotcombatevents.com/groups/978/resources/10053",
+            "team_url": "https://www.robotcombatevents.com/groups/978",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
         }
     },
     "150g": {
@@ -2219,6 +2405,72 @@
             "bot_url": "https://www.robotcombatevents.com/groups/796/resources/16120",
             "team_url": "https://www.robotcombatevents.com/groups/796",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/16120/Mizery2.png"
+        },
+        "Micro Malice": {
+            "team": "Playbot",
+            "bot_url": "https://www.robotcombatevents.com/groups/638/resources/3224",
+            "team_url": "https://www.robotcombatevents.com/groups/638",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/3224/MicroMalice_copy.jpg"
+        },
+        "Leftovers": {
+            "team": "Team Wedges",
+            "bot_url": "https://www.robotcombatevents.com/groups/978/resources/3150",
+            "team_url": "https://www.robotcombatevents.com/groups/978",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/3150/69665918206__C02F8A3A-807C-44C8-9970-D79DC5D2C709.jpg"
+        },
+        "Reaper": {
+            "team": "Team Jonesey",
+            "bot_url": "https://www.robotcombatevents.com/groups/1947/resources/7097",
+            "team_url": "https://www.robotcombatevents.com/groups/1947",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/7097/reaper__2_.jpg"
+        },
+        "biscuit": {
+            "team": "Crux Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/2204/resources/9159",
+            "team_url": "https://www.robotcombatevents.com/groups/2204",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/9159/biscuityeah.png"
+        },
+        "Wedge 3 and Wedge 4": {
+            "team": "Team Wedges",
+            "bot_url": "https://www.robotcombatevents.com/groups/978/resources/9516",
+            "team_url": "https://www.robotcombatevents.com/groups/978",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/9516/IMG_6369-min_1_.jpg"
+        },
+        "screecher": {
+            "team": "Stray Cats",
+            "bot_url": "https://www.robotcombatevents.com/groups/1746/resources/7667",
+            "team_url": "https://www.robotcombatevents.com/groups/1746",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/7667/screecher_v2_v9.png"
+        },
+        "Buzz Charge": {
+            "team": "Team Ice",
+            "bot_url": "https://www.robotcombatevents.com/groups/250/resources/9027",
+            "team_url": "https://www.robotcombatevents.com/groups/250",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "Low Tide": {
+            "team": "Team Tanto",
+            "bot_url": "https://www.robotcombatevents.com/groups/125/resources/361",
+            "team_url": "https://www.robotcombatevents.com/groups/125",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "Push You": {
+            "team": "my garage",
+            "bot_url": "https://www.robotcombatevents.com/groups/1798/resources/9879",
+            "team_url": "https://www.robotcombatevents.com/groups/1798",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/9879/push_yo.jpg"
+        },
+        "Cheugy": {
+            "team": "Jeff",
+            "bot_url": "https://www.robotcombatevents.com/groups/629/resources/4835",
+            "team_url": "https://www.robotcombatevents.com/groups/629",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/4835/cheugy_v1.jpg"
+        },
+        "Ravenous Bugblatter": {
+            "team": "Team 42 Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/314/resources/5302",
+            "team_url": "https://www.robotcombatevents.com/groups/314",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/5302/ravenous_bugblatter.png"
         }
     },
     "3lb": {
@@ -2749,6 +3001,96 @@
             "bot_url": "https://www.robotcombatevents.com/groups/1058/resources/20807",
             "team_url": "https://www.robotcombatevents.com/groups/1058",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/20807/760be3fe-04f9-4b6b-ac54-fdfdd72768db.PNG"
+        },
+        "Stryder": {
+            "team": "Three Point Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/746/resources/3880",
+            "team_url": "https://www.robotcombatevents.com/groups/746",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/3880/stryder5.jpg"
+        },
+        "Calculon": {
+            "team": "Husky Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/1737/resources/5718",
+            "team_url": "https://www.robotcombatevents.com/groups/1737",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/5718/IMG_20231005_090325_283.jpg"
+        },
+        "Dutch": {
+            "team": "Seems Reasonable",
+            "bot_url": "https://www.robotcombatevents.com/groups/2256/resources/9598",
+            "team_url": "https://www.robotcombatevents.com/groups/2256",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "BRIK": {
+            "team": "team good team",
+            "bot_url": "https://www.robotcombatevents.com/groups/736/resources/8534",
+            "team_url": "https://www.robotcombatevents.com/groups/736",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/8534/Screenshot_2023-08-25_at_5.43.26_PM.png"
+        },
+        "XtrikePoint": {
+            "team": "Team Thagomizer",
+            "bot_url": "https://www.robotcombatevents.com/groups/796/resources/8536",
+            "team_url": "https://www.robotcombatevents.com/groups/796",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/8536/3E91CBA2-C3F2-47CA-9889-2828DDD46FE5.jpeg"
+        },
+        "Noisy boy": {
+            "team": "Team Tanto",
+            "bot_url": "https://www.robotcombatevents.com/groups/125/resources/362",
+            "team_url": "https://www.robotcombatevents.com/groups/125",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/362/IMG-9868.jpg"
+        },
+        "Killcake": {
+            "team": "Team Tanto",
+            "bot_url": "https://www.robotcombatevents.com/groups/125/resources/7050",
+            "team_url": "https://www.robotcombatevents.com/groups/125",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/7050/new_killcake.jpg"
+        },
+        "Impact Lab": {
+            "team": "Not Sure Yet",
+            "bot_url": "https://www.robotcombatevents.com/groups/1514/resources/9682",
+            "team_url": "https://www.robotcombatevents.com/groups/1514",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/9682/Screenshot_2024-10-11_233620.png"
+        },
+        "Mimic": {
+            "team": "Team Roll For Initiative",
+            "bot_url": "https://www.robotcombatevents.com/groups/2158/resources/8594",
+            "team_url": "https://www.robotcombatevents.com/groups/2158",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/8594/IMG_2660.jpg"
+        },
+        "Three-Pointer": {
+            "team": "Three Point Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/746/resources/5140",
+            "team_url": "https://www.robotcombatevents.com/groups/746",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/5140/IMG_1727.jpg"
+        },
+        "Clear cutter": {
+            "team": "Jeff",
+            "bot_url": "https://www.robotcombatevents.com/groups/629/resources/7303",
+            "team_url": "https://www.robotcombatevents.com/groups/629",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/7303/CC.JPG"
+        },
+        "Fragment": {
+            "team": "Shadow Combat Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/2085/resources/8699",
+            "team_url": "https://www.robotcombatevents.com/groups/2085",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/8699/Screenshot_20231005_122838_Photos.jpg"
+        },
+        "Detcord": {
+            "team": "Eleccelerator",
+            "bot_url": "https://www.robotcombatevents.com/groups/2320/resources/8465",
+            "team_url": "https://www.robotcombatevents.com/groups/2320",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/8465/Screenshot_2023-06-15_195559.png"
+        },
+        "Kneebiter": {
+            "team": "Team 42 Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/314/resources/7516",
+            "team_url": "https://www.robotcombatevents.com/groups/314",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/7516/PXL_20231129_203123347.jpg"
+        },
+        "Fatta Morgana": {
+            "team": "EleV8",
+            "bot_url": "https://www.robotcombatevents.com/groups/2043/resources/7423",
+            "team_url": "https://www.robotcombatevents.com/groups/2043",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/7423/IMG_2654.jpg"
         }
     },
     "30lb": {
@@ -2925,6 +3267,24 @@
             "bot_url": "https://www.robotcombatevents.com/groups/978/resources/21821",
             "team_url": "https://www.robotcombatevents.com/groups/978",
             "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "Whompers": {
+            "team": "Team Whiplash",
+            "bot_url": "https://www.robotcombatevents.com/groups/198/resources/9635",
+            "team_url": "https://www.robotcombatevents.com/groups/198",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "Ghetto Blaster": {
+            "team": "Chronos",
+            "bot_url": "https://www.robotcombatevents.com/groups/1172/resources/7795",
+            "team_url": "https://www.robotcombatevents.com/groups/1172",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/7795/grinfder.jpg"
+        },
+        "Pepe Silvia": {
+            "team": "Sunny Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/427/resources/7060",
+            "team_url": "https://www.robotcombatevents.com/groups/427",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/7060/Pepe_1MB.jpg"
         }
     },
     "30lb_sportsman": {
