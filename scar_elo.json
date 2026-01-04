@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-01-03T18:57:32.726178",
+    "generated_at": "2026-01-03T19:28:26.325164",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-01-03T18:56:30.402230",
+        "generated_at": "2026-01-03T19:27:23.999139",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -59,7 +59,7 @@
             1529,
             1541,
             1553,
-            1566,
+            1565,
             1578,
             1590,
             1603,
@@ -132,7 +132,7 @@
             1521,
             1533,
             1544,
-            1557,
+            1556,
             1568,
             1554,
             1568,
@@ -300,7 +300,7 @@
             1513,
             1520,
             1512,
-            1527,
+            1528,
             1544,
             1563,
             1548,
@@ -503,7 +503,7 @@
             1597,
             1579,
             1559,
-            1571,
+            1570,
             1552
           ]
         },
@@ -698,7 +698,7 @@
         },
         {
           "name": "Knee Tapper",
-          "current_rating": 1518,
+          "current_rating": 1517,
           "fights": 5,
           "tier": "C",
           "rating_history": [
@@ -707,7 +707,7 @@
             1507,
             1510,
             1514,
-            1518
+            1517
           ]
         },
         {
@@ -1712,7 +1712,7 @@
             1484,
             1467,
             1484,
-            1505,
+            1504,
             1490,
             1476
           ]
@@ -5333,7 +5333,7 @@
           "player_a": "Green Machine",
           "player_b": "Honorary Weapon Of Mass Destruction (HWMD)",
           "player_a_rating_before": 1497,
-          "player_a_rating_after": 1507,
+          "player_a_rating_after": 1508,
           "player_b_rating_before": 1489,
           "player_b_rating_after": 1479
         },
@@ -5394,7 +5394,7 @@
           "player_b": "Green Machine",
           "player_a_rating_before": 1495,
           "player_a_rating_after": 1485,
-          "player_b_rating_before": 1507,
+          "player_b_rating_before": 1508,
           "player_b_rating_after": 1518
         },
         {
@@ -5733,7 +5733,7 @@
           "player_a": "Mirage",
           "player_b": "Veni Vidi Vici",
           "player_a_rating_before": 1568,
-          "player_a_rating_after": 1554,
+          "player_a_rating_after": 1555,
           "player_b_rating_before": 1544,
           "player_b_rating_after": 1558
         },
@@ -5814,7 +5814,7 @@
           "player_b": "Mirage",
           "player_a_rating_before": 1500,
           "player_a_rating_after": 1486,
-          "player_b_rating_before": 1554,
+          "player_b_rating_before": 1555,
           "player_b_rating_after": 1568
         },
         {
@@ -7068,7 +7068,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-01-03T18:56:44.467425",
+        "generated_at": "2026-01-03T19:27:38.069052",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -7213,9 +7213,9 @@
             1529,
             1536,
             1543,
-            1536,
+            1535,
             1545,
-            1555,
+            1554,
             1564,
             1574,
             1562,
@@ -7225,8 +7225,8 @@
             1558,
             1545,
             1526,
-            1541,
-            1555,
+            1540,
+            1554,
             1568,
             1582,
             1564
@@ -7287,7 +7287,7 @@
             1502,
             1518,
             1534,
-            1548,
+            1547,
             1564,
             1579,
             1562
@@ -7373,7 +7373,7 @@
             1534,
             1539,
             1545,
-            1551,
+            1550,
             1557,
             1563,
             1569,
@@ -7394,7 +7394,7 @@
             1584,
             1596,
             1607,
-            1585,
+            1586,
             1563,
             1577,
             1590,
@@ -7511,7 +7511,7 @@
             1504,
             1498,
             1504,
-            1498,
+            1499,
             1506,
             1499,
             1505,
@@ -11866,7 +11866,7 @@
           "player_a_rating_before": 1541,
           "player_a_rating_after": 1534,
           "player_b_rating_before": 1529,
-          "player_b_rating_after": 1537
+          "player_b_rating_after": 1536
         },
         {
           "event": "HATHAnts",
@@ -11875,7 +11875,7 @@
           "player_b": "No Name",
           "player_a_rating_before": 1513,
           "player_a_rating_after": 1507,
-          "player_b_rating_before": 1537,
+          "player_b_rating_before": 1536,
           "player_b_rating_after": 1543
         },
         {
@@ -12506,7 +12506,7 @@
           "player_a_rating_before": 1570,
           "player_a_rating_after": 1579,
           "player_b_rating_before": 1511,
-          "player_b_rating_after": 1503
+          "player_b_rating_after": 1502
         },
         {
           "event": "MFOC1lb",
@@ -12945,7 +12945,7 @@
           "player_b": "Saurian",
           "player_a_rating_before": 1500,
           "player_a_rating_after": 1484,
-          "player_b_rating_before": 1503,
+          "player_b_rating_before": 1502,
           "player_b_rating_after": 1518
         },
         {
@@ -13156,7 +13156,7 @@
           "player_a_rating_before": 1559,
           "player_a_rating_after": 1542,
           "player_b_rating_before": 1548,
-          "player_b_rating_after": 1565
+          "player_b_rating_after": 1564
         },
         {
           "event": "cubeboticscombat1lb",
@@ -13175,7 +13175,7 @@
           "player_b": "Saurian",
           "player_a_rating_before": 1533,
           "player_a_rating_after": 1518,
-          "player_b_rating_before": 1565,
+          "player_b_rating_before": 1564,
           "player_b_rating_after": 1579
         },
         {
@@ -13939,7 +13939,7 @@
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-01-03T18:57:02.558956",
+        "generated_at": "2026-01-03T19:27:56.180712",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -14105,7 +14105,7 @@
             1559,
             1563,
             1568,
-            1573,
+            1572,
             1577,
             1571,
             1581,
@@ -14223,7 +14223,7 @@
             1562,
             1571,
             1582,
-            1593,
+            1592,
             1603,
             1613,
             1624,
@@ -15555,19 +15555,6 @@
           ]
         },
         {
-          "name": "Alipay",
-          "current_rating": 1499,
-          "fights": 4,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1503,
-            1499,
-            1503,
-            1499
-          ]
-        },
-        {
           "name": "Scatter",
           "current_rating": 1499,
           "fights": 11,
@@ -15584,6 +15571,19 @@
             1489,
             1501,
             1513,
+            1499
+          ]
+        },
+        {
+          "name": "Alipay",
+          "current_rating": 1499,
+          "fights": 4,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1503,
+            1499,
+            1503,
             1499
           ]
         },
@@ -19733,7 +19733,7 @@
           "player_a_rating_before": 1504,
           "player_a_rating_after": 1500,
           "player_b_rating_before": 1511,
-          "player_b_rating_after": 1515
+          "player_b_rating_after": 1514
         },
         {
           "event": "mmayhemplant",
@@ -19750,7 +19750,7 @@
           "timestamp": "2024-03-09T19:41:02",
           "player_a": "Plifter",
           "player_b": "Axolotl Questions",
-          "player_a_rating_before": 1515,
+          "player_a_rating_before": 1514,
           "player_a_rating_after": 1511,
           "player_b_rating_before": 1518,
           "player_b_rating_after": 1521
@@ -21723,7 +21723,7 @@
           "player_a_rating_before": 1469,
           "player_a_rating_after": 1457,
           "player_b_rating_before": 1490,
-          "player_b_rating_after": 1501
+          "player_b_rating_after": 1502
         },
         {
           "event": "SCARHalloweenPLANT2024",
@@ -21832,7 +21832,7 @@
           "player_b": "Scatter",
           "player_a_rating_before": 1484,
           "player_a_rating_after": 1472,
-          "player_b_rating_before": 1501,
+          "player_b_rating_before": 1502,
           "player_b_rating_after": 1514
         },
         {
@@ -21863,7 +21863,7 @@
           "player_a_rating_before": 1514,
           "player_a_rating_after": 1500,
           "player_b_rating_before": 1485,
-          "player_b_rating_after": 1498
+          "player_b_rating_after": 1499
         },
         {
           "event": "SCARHalloweenPLANT2024",
@@ -21882,7 +21882,7 @@
           "player_b": "The Maker",
           "player_a_rating_before": 1513,
           "player_a_rating_after": 1525,
-          "player_b_rating_before": 1498,
+          "player_b_rating_before": 1499,
           "player_b_rating_after": 1486
         },
         {
@@ -22191,7 +22191,7 @@
           "player_a": "Lopper Bot",
           "player_b": "Drumstick",
           "player_a_rating_before": 1517,
-          "player_a_rating_after": 1501,
+          "player_a_rating_after": 1502,
           "player_b_rating_before": 1528,
           "player_b_rating_after": 1543
         },
@@ -22300,7 +22300,7 @@
           "timestamp": "2025-04-12T18:52:24",
           "player_a": "Lopper Bot",
           "player_b": "Mod Bot",
-          "player_a_rating_before": 1501,
+          "player_a_rating_before": 1502,
           "player_a_rating_after": 1519,
           "player_b_rating_before": 1533,
           "player_b_rating_after": 1515
@@ -22641,7 +22641,7 @@
           "player_a": "Sica",
           "player_b": "Drumstick",
           "player_a_rating_before": 1628,
-          "player_a_rating_after": 1610,
+          "player_a_rating_after": 1609,
           "player_b_rating_before": 1582,
           "player_b_rating_after": 1600
         },
@@ -22700,7 +22700,7 @@
           "timestamp": "2025-05-17T12:59:08",
           "player_a": "Sica",
           "player_b": "Deez Nutz",
-          "player_a_rating_before": 1610,
+          "player_a_rating_before": 1609,
           "player_a_rating_after": 1620,
           "player_b_rating_before": 1473,
           "player_b_rating_after": 1463
@@ -23191,7 +23191,7 @@
           "player_a": "B-Annoyed",
           "player_b": "Popsicle",
           "player_a_rating_before": 1562,
-          "player_a_rating_after": 1578,
+          "player_a_rating_after": 1577,
           "player_b_rating_before": 1549,
           "player_b_rating_after": 1533
         },
@@ -23202,7 +23202,7 @@
           "player_b": "B-Annoyed",
           "player_a_rating_before": 1519,
           "player_a_rating_after": 1506,
-          "player_b_rating_before": 1578,
+          "player_b_rating_before": 1577,
           "player_b_rating_after": 1591
         },
         {
@@ -23801,7 +23801,7 @@
           "player_a": "Killer Beeze",
           "player_b": "B-Annoyed",
           "player_a_rating_before": 1645,
-          "player_a_rating_after": 1661,
+          "player_a_rating_after": 1660,
           "player_b_rating_before": 1625,
           "player_b_rating_after": 1610
         },
@@ -23821,7 +23821,7 @@
           "player_a": "B-Annoyed",
           "player_b": "Danger Zone",
           "player_a_rating_before": 1610,
-          "player_a_rating_after": 1594,
+          "player_a_rating_after": 1593,
           "player_b_rating_before": 1605,
           "player_b_rating_after": 1621
         },
@@ -23830,7 +23830,7 @@
           "timestamp": "2025-10-11T19:16:47",
           "player_a": "Killer Beeze",
           "player_b": "Danger Zone",
-          "player_a_rating_before": 1661,
+          "player_a_rating_before": 1660,
           "player_a_rating_after": 1643,
           "player_b_rating_before": 1621,
           "player_b_rating_after": 1639
@@ -23866,7 +23866,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-01-03T18:57:15.627874",
+        "generated_at": "2026-01-03T19:28:09.256162",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -23922,7 +23922,7 @@
             1541,
             1554,
             1567,
-            1580,
+            1579,
             1564,
             1578,
             1591,
@@ -23969,7 +23969,7 @@
             1593,
             1581,
             1563,
-            1575,
+            1574,
             1589,
             1600,
             1612,
@@ -24034,7 +24034,7 @@
             1564,
             1580,
             1566,
-            1546,
+            1545,
             1527,
             1542,
             1557,
@@ -28875,7 +28875,7 @@
           "player_a_rating_before": 1564,
           "player_a_rating_after": 1578,
           "player_b_rating_before": 1550,
-          "player_b_rating_after": 1536
+          "player_b_rating_after": 1537
         },
         {
           "event": "NBB24",
@@ -29003,7 +29003,7 @@
           "player_a": "Hangry Hedgehogs",
           "player_b": "Culverizer",
           "player_a_rating_before": 1542,
-          "player_a_rating_after": 1555,
+          "player_a_rating_after": 1556,
           "player_b_rating_before": 1484,
           "player_b_rating_after": 1471
         },
@@ -29023,7 +29023,7 @@
           "player_a": "Drop Bear",
           "player_b": "Applesauce",
           "player_a_rating_before": 1482,
-          "player_a_rating_after": 1498,
+          "player_a_rating_after": 1499,
           "player_b_rating_before": 1484,
           "player_b_rating_after": 1468
         },
@@ -29034,7 +29034,7 @@
           "player_b": "Drop Bear",
           "player_a_rating_before": 1529,
           "player_a_rating_after": 1544,
-          "player_b_rating_before": 1498,
+          "player_b_rating_before": 1499,
           "player_b_rating_after": 1484
         },
         {
@@ -29044,7 +29044,7 @@
           "player_b": "Hangry Hedgehogs",
           "player_a_rating_before": 1502,
           "player_a_rating_after": 1521,
-          "player_b_rating_before": 1555,
+          "player_b_rating_before": 1556,
           "player_b_rating_after": 1537
         },
         {
@@ -29123,7 +29123,7 @@
           "player_a": "Sandstorm",
           "player_b": "Twisted Sister",
           "player_a_rating_before": 1549,
-          "player_a_rating_after": 1565,
+          "player_a_rating_after": 1564,
           "player_b_rating_before": 1541,
           "player_b_rating_after": 1526
         },
@@ -29142,7 +29142,7 @@
           "timestamp": "2025-07-09T01:54:29",
           "player_a": "Sandstorm",
           "player_b": "Count3rpunch",
-          "player_a_rating_before": 1565,
+          "player_a_rating_before": 1564,
           "player_a_rating_after": 1580,
           "player_b_rating_before": 1555,
           "player_b_rating_after": 1540
@@ -29202,7 +29202,7 @@
           "timestamp": "2025-09-13T20:57:48",
           "player_a": "Storm Trooper",
           "player_b": "Drop Bear",
-          "player_a_rating_before": 1536,
+          "player_a_rating_before": 1537,
           "player_a_rating_after": 1550,
           "player_b_rating_before": 1484,
           "player_b_rating_after": 1470
@@ -29918,7 +29918,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-01-03T18:57:22.687107",
+        "generated_at": "2026-01-03T19:28:16.287933",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -31495,7 +31495,7 @@
           "player_a_rating_before": 1489,
           "player_a_rating_after": 1500,
           "player_b_rating_before": 1495,
-          "player_b_rating_after": 1484
+          "player_b_rating_after": 1485
         },
         {
           "event": "MFOC12lb",
@@ -31994,7 +31994,7 @@
           "player_b": "Pork Chop",
           "player_a_rating_before": 1488,
           "player_a_rating_after": 1504,
-          "player_b_rating_before": 1484,
+          "player_b_rating_before": 1485,
           "player_b_rating_after": 1469
         },
         {
@@ -32158,7 +32158,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-01-03T18:57:28.703636",
+        "generated_at": "2026-01-03T19:28:22.313641",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -32589,7 +32589,7 @@
           "rating_history": [
             1500,
             1489,
-            1478,
+            1479,
             1468,
             1480
           ]
@@ -33092,14 +33092,14 @@
           "player_a_rating_before": 1491,
           "player_a_rating_after": 1480,
           "player_b_rating_before": 1500,
-          "player_b_rating_after": 1511
+          "player_b_rating_after": 1510
         },
         {
           "event": "MFOC30lb",
           "timestamp": "2024-09-14T20:02:41",
           "player_a": "HS1",
           "player_b": "Forged From The Ashes",
-          "player_a_rating_before": 1511,
+          "player_a_rating_before": 1510,
           "player_a_rating_after": 1522,
           "player_b_rating_before": 1531,
           "player_b_rating_after": 1520
@@ -33675,7 +33675,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-01-03T18:57:32.725111",
+        "generated_at": "2026-01-03T19:28:26.325164",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -34166,13 +34166,15 @@
       "bracket_id": "na97ke71",
       "started_at": "2023-01-07T12:56:05.108-05:00",
       "standings": [],
-      "friendly_name": "Melee at the Meadery 2023"
+      "friendly_name": "Melee at the Meadery 2023",
+      "weight_class": "150g"
     },
     "LAM23Fairy": {
       "bracket_id": "LAM23Fairy",
       "started_at": "2023-04-01T14:00:12.564-03:00",
       "standings": [],
-      "friendly_name": "Los Angeles Maker Faire 2023"
+      "friendly_name": "Los Angeles Maker Faire 2023",
+      "weight_class": "150g"
     },
     "MMM150g": {
       "bracket_id": "MMM150g",
@@ -34231,7 +34233,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "May Metal Massacre 2023"
+      "friendly_name": "May Metal Massacre 2023",
+      "weight_class": "150g"
     },
     "FFFFFairies": {
       "bracket_id": "FFFFFairies",
@@ -34262,7 +34265,8 @@
           "rank": 6
         }
       ],
-      "friendly_name": "Fathers Day Fight Fest 2023"
+      "friendly_name": "Fathers Day Fight Fest 2023",
+      "weight_class": "150g"
     },
     "BKB150g": {
       "bracket_id": "BKB150g",
@@ -34333,7 +34337,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Bees Knees Brawl 2023"
+      "friendly_name": "Bees Knees Brawl 2023",
+      "weight_class": "150g"
     },
     "OCMF150G2": {
       "bracket_id": "OCMF150G2",
@@ -34392,7 +34397,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2023"
+      "friendly_name": "Maker Faire Orange County 2023",
+      "weight_class": "150g"
     },
     "BBFLA150g": {
       "bracket_id": "BBFLA150g",
@@ -34455,7 +34461,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Battle For Los Angeles 2023"
+      "friendly_name": "Battle For Los Angeles 2023",
+      "weight_class": "150g"
     },
     "D2R150g": {
       "bracket_id": "D2R150g",
@@ -34506,7 +34513,8 @@
           "rank": 9
         }
       ],
-      "friendly_name": "December To Remember 2023"
+      "friendly_name": "December To Remember 2023",
+      "weight_class": "150g"
     },
     "MMF24Fairies": {
       "bracket_id": "MMF24Fairies",
@@ -34545,7 +34553,8 @@
           "rank": 8
         }
       ],
-      "friendly_name": "Los Angeles Maker Faire 2024"
+      "friendly_name": "Los Angeles Maker Faire 2024",
+      "weight_class": "150g"
     },
     "mmayhem150": {
       "bracket_id": "mmayhem150",
@@ -34648,7 +34657,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "March Mechanical Mayhem 2024"
+      "friendly_name": "March Mechanical Mayhem 2024",
+      "weight_class": "150g"
     },
     "MayMetalFairy2024": {
       "bracket_id": "MayMetalFairy2024",
@@ -34719,7 +34729,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "May Metal Massacre 2024"
+      "friendly_name": "May Metal Massacre 2024",
+      "weight_class": "150g"
     },
     "HATHFairy": {
       "bracket_id": "HATHFairy",
@@ -34818,7 +34829,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "Havoc At The Hive 2024"
+      "friendly_name": "Havoc At The Hive 2024",
+      "weight_class": "150g"
     },
     "MFOC150g": {
       "bracket_id": "MFOC150g",
@@ -34889,7 +34901,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2024"
+      "friendly_name": "Maker Faire Orange County 2024",
+      "weight_class": "150g"
     },
     "SCARHalloween150gOpen": {
       "bracket_id": "SCARHalloween150gOpen",
@@ -34960,7 +34973,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "SCAR-y Halloween 2024"
+      "friendly_name": "SCAR-y Halloween 2024",
+      "weight_class": "150g"
     },
     "cubeboticscombat150g": {
       "bracket_id": "cubeboticscombat150g",
@@ -35031,7 +35045,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Cubebotics Week at Discovery Cube 2025"
+      "friendly_name": "Cubebotics Week at Discovery Cube 2025",
+      "weight_class": "150g"
     },
     "LAMF25Fairy": {
       "bracket_id": "LAMF25Fairy",
@@ -35098,7 +35113,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Los Angeles Maker Faire 2025"
+      "friendly_name": "Los Angeles Maker Faire 2025",
+      "weight_class": "150g"
     },
     "MFOC150g2025": {
       "bracket_id": "MFOC150g2025",
@@ -35169,7 +35185,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2025"
+      "friendly_name": "Maker Faire Orange County 2025",
+      "weight_class": "150g"
     },
     "2spooky150g": {
       "bracket_id": "2spooky150g",
@@ -35272,13 +35289,15 @@
           "rank": 17
         }
       ],
-      "friendly_name": "2Spooky4Me 2025"
+      "friendly_name": "2Spooky4Me 2025",
+      "weight_class": "150g"
     },
     "1lbsmeaderymelee": {
       "bracket_id": "1lbsmeaderymelee",
       "started_at": "2023-01-07T13:03:53.291-05:00",
       "standings": [],
-      "friendly_name": "Melee at the Meadery 2023"
+      "friendly_name": "Melee at the Meadery 2023",
+      "weight_class": "1lb"
     },
     "MMMAnts": {
       "bracket_id": "MMMAnts",
@@ -35369,7 +35388,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "May Metal Massacre 2023"
+      "friendly_name": "May Metal Massacre 2023",
+      "weight_class": "1lb"
     },
     "DUTS23Ants": {
       "bracket_id": "DUTS23Ants",
@@ -35416,7 +35436,8 @@
           "rank": 9
         }
       ],
-      "friendly_name": "Destruction Under The Stars 2023"
+      "friendly_name": "Destruction Under The Stars 2023",
+      "weight_class": "1lb"
     },
     "ocmfants": {
       "bracket_id": "ocmfants",
@@ -35487,7 +35508,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2023"
+      "friendly_name": "Maker Faire Orange County 2023",
+      "weight_class": "1lb"
     },
     "BFLA1lb": {
       "bracket_id": "BFLA1lb",
@@ -35554,7 +35576,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Battle For Los Angeles 2023"
+      "friendly_name": "Battle For Los Angeles 2023",
+      "weight_class": "1lb"
     },
     "D2R1lb": {
       "bracket_id": "D2R1lb",
@@ -35621,7 +35644,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "December To Remember 2023"
+      "friendly_name": "December To Remember 2023",
+      "weight_class": "1lb"
     },
     "SCARJANFCANT": {
       "bracket_id": "SCARJANFCANT",
@@ -35696,7 +35720,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "SCAR-y January 2024"
+      "friendly_name": "SCAR-y January 2024",
+      "weight_class": "1lb"
     },
     "MayMetalAnt2024": {
       "bracket_id": "MayMetalAnt2024",
@@ -35799,7 +35824,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "May Metal Massacre 2024"
+      "friendly_name": "May Metal Massacre 2024",
+      "weight_class": "1lb"
     },
     "HATHAnts": {
       "bracket_id": "HATHAnts",
@@ -35902,7 +35928,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "Havoc At The Hive 2024"
+      "friendly_name": "Havoc At The Hive 2024",
+      "weight_class": "1lb"
     },
     "DUTS24Ants": {
       "bracket_id": "DUTS24Ants",
@@ -35989,7 +36016,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "Destruction Under The Stars 2024"
+      "friendly_name": "Destruction Under The Stars 2024",
+      "weight_class": "1lb"
     },
     "MFOC1lb": {
       "bracket_id": "MFOC1lb",
@@ -36092,7 +36120,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2024"
+      "friendly_name": "Maker Faire Orange County 2024",
+      "weight_class": "1lb"
     },
     "scarhalloween1lb2024": {
       "bracket_id": "scarhalloween1lb2024",
@@ -36163,7 +36192,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "SCAR-y Halloween 2024"
+      "friendly_name": "SCAR-y Halloween 2024",
+      "weight_class": "1lb"
     },
     "cubeboticscombat1lb": {
       "bracket_id": "cubeboticscombat1lb",
@@ -36234,7 +36264,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Cubebotics Week at Discovery Cube 2025"
+      "friendly_name": "Cubebotics Week at Discovery Cube 2025",
+      "weight_class": "1lb"
     },
     "DUTS251lb": {
       "bracket_id": "DUTS251lb",
@@ -36305,7 +36336,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Destruction Under The Stars 2025"
+      "friendly_name": "Destruction Under The Stars 2025",
+      "weight_class": "1lb"
     },
     "MFOC1lb2025": {
       "bracket_id": "MFOC1lb2025",
@@ -36408,13 +36440,15 @@
           "rank": 17
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2025"
+      "friendly_name": "Maker Faire Orange County 2025",
+      "weight_class": "1lb"
     },
     "plantsmeaderymelee": {
       "bracket_id": "plantsmeaderymelee",
       "started_at": "2023-01-07T19:12:21.488+01:00",
       "standings": [],
-      "friendly_name": "Melee at the Meadery 2023"
+      "friendly_name": "Melee at the Meadery 2023",
+      "weight_class": "plant"
     },
     "mmmplants": {
       "bracket_id": "mmmplants",
@@ -36521,7 +36555,8 @@
           "rank": 25
         }
       ],
-      "friendly_name": "May Metal Massacre 2023"
+      "friendly_name": "May Metal Massacre 2023",
+      "weight_class": "plant"
     },
     "FFFFPlants": {
       "bracket_id": "FFFFPlants",
@@ -36588,7 +36623,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Fathers Day Fight Fest 2023"
+      "friendly_name": "Fathers Day Fight Fest 2023",
+      "weight_class": "plant"
     },
     "BKBPLANTS": {
       "bracket_id": "BKBPLANTS",
@@ -36691,7 +36727,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "Bees Knees Brawl 2023"
+      "friendly_name": "Bees Knees Brawl 2023",
+      "weight_class": "plant"
     },
     "ocmfplants": {
       "bracket_id": "ocmfplants",
@@ -36754,7 +36791,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2023"
+      "friendly_name": "Maker Faire Orange County 2023",
+      "weight_class": "plant"
     },
     "BFLAPLANT": {
       "bracket_id": "BFLAPLANT",
@@ -36821,7 +36859,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Battle For Los Angeles 2023"
+      "friendly_name": "Battle For Los Angeles 2023",
+      "weight_class": "plant"
     },
     "D2RPlant": {
       "bracket_id": "D2RPlant",
@@ -36884,7 +36923,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "December To Remember 2023"
+      "friendly_name": "December To Remember 2023",
+      "weight_class": "plant"
     },
     "SCARJANPLANT": {
       "bracket_id": "SCARJANPLANT",
@@ -36951,7 +36991,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "SCAR-y January 2024"
+      "friendly_name": "SCAR-y January 2024",
+      "weight_class": "plant"
     },
     "mmayhemplant": {
       "bracket_id": "mmayhemplant",
@@ -37046,7 +37087,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "March Mechanical Mayhem 2024"
+      "friendly_name": "March Mechanical Mayhem 2024",
+      "weight_class": "plant"
     },
     "MakerFair2024Plant": {
       "bracket_id": "MakerFair2024Plant",
@@ -37105,7 +37147,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Los Angeles Maker Faire 2024"
+      "friendly_name": "Los Angeles Maker Faire 2024",
+      "weight_class": "plant"
     },
     "PlasticPandemoniumOpen": {
       "bracket_id": "PlasticPandemoniumOpen",
@@ -37240,7 +37283,8 @@
           "rank": 25
         }
       ],
-      "friendly_name": "Plastic Pandemoneum 2024"
+      "friendly_name": "Plastic Pandemoneum 2024",
+      "weight_class": "plant"
     },
     "MayMetalPlant2024": {
       "bracket_id": "MayMetalPlant2024",
@@ -37363,7 +37407,8 @@
           "rank": 25
         }
       ],
-      "friendly_name": "May Metal Massacre 2024"
+      "friendly_name": "May Metal Massacre 2024",
+      "weight_class": "plant"
     },
     "MFOCPlant": {
       "bracket_id": "MFOCPlant",
@@ -37466,7 +37511,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2024"
+      "friendly_name": "Maker Faire Orange County 2024",
+      "weight_class": "plant"
     },
     "SCARHalloweenPLANT2024": {
       "bracket_id": "SCARHalloweenPLANT2024",
@@ -37537,7 +37583,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "SCAR-y Halloween 2024"
+      "friendly_name": "SCAR-y Halloween 2024",
+      "weight_class": "plant"
     },
     "cubeboticscombatplants": {
       "bracket_id": "cubeboticscombatplants",
@@ -37624,7 +37671,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "Cubebotics Week at Discovery Cube 2025"
+      "friendly_name": "Cubebotics Week at Discovery Cube 2025",
+      "weight_class": "plant"
     },
     "LAMF25PLANT": {
       "bracket_id": "LAMF25PLANT",
@@ -37711,7 +37759,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "Los Angeles Maker Faire 2025"
+      "friendly_name": "Los Angeles Maker Faire 2025",
+      "weight_class": "plant"
     },
     "PP2025Open": {
       "bracket_id": "PP2025Open",
@@ -37854,7 +37903,8 @@
           "rank": 33
         }
       ],
-      "friendly_name": "Plastic Pandemoneum 2025"
+      "friendly_name": "Plastic Pandemoneum 2025",
+      "weight_class": "plant"
     },
     "MFOCPlant2025": {
       "bracket_id": "MFOCPlant2025",
@@ -37925,7 +37975,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2025"
+      "friendly_name": "Maker Faire Orange County 2025",
+      "weight_class": "plant"
     },
     "2spookyplant": {
       "bracket_id": "2spookyplant",
@@ -37996,7 +38047,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "2Spooky4Me 2025"
+      "friendly_name": "2Spooky4Me 2025",
+      "weight_class": "plant"
     },
     "mmmbeetles": {
       "bracket_id": "mmmbeetles",
@@ -38071,7 +38123,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "May Metal Massacre 2023"
+      "friendly_name": "May Metal Massacre 2023",
+      "weight_class": "3lb"
     },
     "DUTS23Beetles": {
       "bracket_id": "DUTS23Beetles",
@@ -38114,7 +38167,8 @@
           "rank": 9
         }
       ],
-      "friendly_name": "Destruction Under The Stars 2023"
+      "friendly_name": "Destruction Under The Stars 2023",
+      "weight_class": "3lb"
     },
     "DUTS23Sportsman": {
       "bracket_id": "DUTS23Sportsman",
@@ -38137,7 +38191,8 @@
           "rank": 4
         }
       ],
-      "friendly_name": "Destruction Under The Stars 2023"
+      "friendly_name": "Destruction Under The Stars 2023",
+      "weight_class": "3lb"
     },
     "ocmf3lb": {
       "bracket_id": "ocmf3lb",
@@ -38196,7 +38251,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2023"
+      "friendly_name": "Maker Faire Orange County 2023",
+      "weight_class": "3lb"
     },
     "BFLA3lb": {
       "bracket_id": "BFLA3lb",
@@ -38283,7 +38339,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "Battle For Los Angeles 2023"
+      "friendly_name": "Battle For Los Angeles 2023",
+      "weight_class": "3lb"
     },
     "D2R3lb": {
       "bracket_id": "D2R3lb",
@@ -38334,7 +38391,8 @@
           "rank": 9
         }
       ],
-      "friendly_name": "December To Remember 2024"
+      "friendly_name": "December To Remember 2024",
+      "weight_class": "3lb"
     },
     "mmayhem3lb": {
       "bracket_id": "mmayhem3lb",
@@ -38405,7 +38463,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "March Mechanical Mayhem 2024"
+      "friendly_name": "March Mechanical Mayhem 2024",
+      "weight_class": "3lb"
     },
     "MayMetalBeetle2024": {
       "bracket_id": "MayMetalBeetle2024",
@@ -38520,7 +38579,8 @@
           "rank": 25
         }
       ],
-      "friendly_name": "May Metal Massacre 2024"
+      "friendly_name": "May Metal Massacre 2024",
+      "weight_class": "3lb"
     },
     "DUTS24Beetles": {
       "bracket_id": "DUTS24Beetles",
@@ -38571,7 +38631,8 @@
           "rank": 9
         }
       ],
-      "friendly_name": "Destruction Under The Stars 2024"
+      "friendly_name": "Destruction Under The Stars 2024",
+      "weight_class": "3lb"
     },
     "MFOC3lb": {
       "bracket_id": "MFOC3lb",
@@ -38706,7 +38767,8 @@
           "rank": 25
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2024"
+      "friendly_name": "Maker Faire Orange County 2024",
+      "weight_class": "3lb"
     },
     "NBB24": {
       "bracket_id": "NBB24",
@@ -38809,7 +38871,8 @@
           "rank": 17
         }
       ],
-      "friendly_name": "November Beetle Battle 2024"
+      "friendly_name": "November Beetle Battle 2024",
+      "weight_class": "3lb"
     },
     "DUTS253lb": {
       "bracket_id": "DUTS253lb",
@@ -38880,7 +38943,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Destruction Under The Stars 2025"
+      "friendly_name": "Destruction Under The Stars 2025",
+      "weight_class": "3lb"
     },
     "MFOC3lb2025": {
       "bracket_id": "MFOC3lb2025",
@@ -39015,7 +39079,8 @@
           "rank": 25
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2025"
+      "friendly_name": "Maker Faire Orange County 2025",
+      "weight_class": "3lb"
     },
     "2spooky3lb": {
       "bracket_id": "2spooky3lb",
@@ -39070,7 +39135,8 @@
           "rank": 9
         }
       ],
-      "friendly_name": "2Spooky4Me 2025"
+      "friendly_name": "2Spooky4Me 2025",
+      "weight_class": "3lb"
     },
     "MMM12lb": {
       "bracket_id": "MMM12lb",
@@ -39109,7 +39175,8 @@
           "rank": 7
         }
       ],
-      "friendly_name": "May Metal Massacre 2023"
+      "friendly_name": "May Metal Massacre 2023",
+      "weight_class": "12lb"
     },
     "ocmf12lb": {
       "bracket_id": "ocmf12lb",
@@ -39148,7 +39215,8 @@
           "rank": 8
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2023"
+      "friendly_name": "Maker Faire Orange County 2023",
+      "weight_class": "12lb"
     },
     "BFLA12": {
       "bracket_id": "BFLA12",
@@ -39179,7 +39247,8 @@
           "rank": 6
         }
       ],
-      "friendly_name": "Battle For Los Angeles 2023"
+      "friendly_name": "Battle For Los Angeles 2023",
+      "weight_class": "12lb"
     },
     "MayMetalHobby2024": {
       "bracket_id": "MayMetalHobby2024",
@@ -39226,7 +39295,8 @@
           "rank": 9
         }
       ],
-      "friendly_name": "May Metal Massacre 2024"
+      "friendly_name": "May Metal Massacre 2024",
+      "weight_class": "12lb"
     },
     "MFOC12lb": {
       "bracket_id": "MFOC12lb",
@@ -39297,7 +39367,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2024"
+      "friendly_name": "Maker Faire Orange County 2024",
+      "weight_class": "12lb"
     },
     "BBB12lb": {
       "bracket_id": "BBB12lb",
@@ -39340,7 +39411,8 @@
           "rank": 9
         }
       ],
-      "friendly_name": "Big Bot Brawl 2025"
+      "friendly_name": "Big Bot Brawl 2025",
+      "weight_class": "12lb"
     },
     "MFOC12lb2025": {
       "bracket_id": "MFOC12lb2025",
@@ -39395,7 +39467,8 @@
           "rank": 9
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2025"
+      "friendly_name": "Maker Faire Orange County 2025",
+      "weight_class": "12lb"
     },
     "D2D12lb": {
       "bracket_id": "D2D12lb",
@@ -39434,7 +39507,8 @@
           "rank": 7
         }
       ],
-      "friendly_name": "December to Dismember 2025"
+      "friendly_name": "December to Dismember 2025",
+      "weight_class": "12lb"
     },
     "mmm30lb": {
       "bracket_id": "mmm30lb",
@@ -39465,7 +39539,8 @@
           "rank": 6
         }
       ],
-      "friendly_name": "May Metal Massacre 2023"
+      "friendly_name": "May Metal Massacre 2023",
+      "weight_class": "30lb"
     },
     "BFLA30lbFC": {
       "bracket_id": "BFLA30lbFC",
@@ -39488,7 +39563,8 @@
           "rank": 4
         }
       ],
-      "friendly_name": "Battle For Los Angeles 2023"
+      "friendly_name": "Battle For Los Angeles 2023",
+      "weight_class": "30lb"
     },
     "MayMetalFeather2024": {
       "bracket_id": "MayMetalFeather2024",
@@ -39515,7 +39591,8 @@
           "rank": 5
         }
       ],
-      "friendly_name": "May Metal Massacre 2024"
+      "friendly_name": "May Metal Massacre 2024",
+      "weight_class": "30lb"
     },
     "MFOC30lb": {
       "bracket_id": "MFOC30lb",
@@ -39542,7 +39619,8 @@
           "rank": 5
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2024"
+      "friendly_name": "Maker Faire Orange County 2024",
+      "weight_class": "30lb"
     },
     "BBB30lbfc": {
       "bracket_id": "BBB30lbfc",
@@ -39601,7 +39679,8 @@
           "rank": 13
         }
       ],
-      "friendly_name": "Big Bot Brawl 2025"
+      "friendly_name": "Big Bot Brawl 2025",
+      "weight_class": "30lb"
     },
     "MFOC30lb2025": {
       "bracket_id": "MFOC30lb2025",
@@ -39648,7 +39727,8 @@
           "rank": 9
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2025"
+      "friendly_name": "Maker Faire Orange County 2025",
+      "weight_class": "30lb"
     },
     "D2D30lb": {
       "bracket_id": "D2D30lb",
@@ -39691,7 +39771,8 @@
           "rank": 9
         }
       ],
-      "friendly_name": "December to Dismember 2025"
+      "friendly_name": "December to Dismember 2025",
+      "weight_class": "30lb"
     },
     "BFLA30Sport": {
       "bracket_id": "BFLA30Sport",
@@ -39714,7 +39795,8 @@
           "rank": 4
         }
       ],
-      "friendly_name": "Battle For Los Angeles 2023"
+      "friendly_name": "Battle For Los Angeles 2023",
+      "weight_class": "30lb_sportsman"
     },
     "MayMetalSportFeather2024": {
       "bracket_id": "MayMetalSportFeather2024",
@@ -39741,7 +39823,8 @@
           "rank": 5
         }
       ],
-      "friendly_name": "May Metal Massacre 2024"
+      "friendly_name": "May Metal Massacre 2024",
+      "weight_class": "30lb_sportsman"
     },
     "MFOCSportsman": {
       "bracket_id": "MFOCSportsman",
@@ -39764,7 +39847,8 @@
           "rank": 4
         }
       ],
-      "friendly_name": "Maker Faire Orange County 2024"
+      "friendly_name": "Maker Faire Orange County 2024",
+      "weight_class": "30lb_sportsman"
     },
     "BBB30lbSM": {
       "bracket_id": "BBB30lbSM",
@@ -39787,7 +39871,8 @@
           "rank": 4
         }
       ],
-      "friendly_name": "Big Bot Battle 2025"
+      "friendly_name": "Big Bot Battle 2025",
+      "weight_class": "30lb_sportsman"
     },
     "D2DSport": {
       "bracket_id": "D2DSport",
@@ -39802,7 +39887,8 @@
           "rank": 2
         }
       ],
-      "friendly_name": "December to Dismember 2025"
+      "friendly_name": "December to Dismember 2025",
+      "weight_class": "30lb_sportsman"
     }
   }
 }
