@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-01-06T02:29:12.451441",
+    "generated_at": "2026-01-06T09:45:24.105323",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-01-06T02:28:10.171252",
+        "generated_at": "2026-01-06T09:44:21.148482",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -129,7 +129,7 @@
             1557,
             1545,
             1534,
-            1521,
+            1520,
             1533,
             1544,
             1556,
@@ -5163,7 +5163,7 @@
           "player_a": "Cruncher",
           "player_b": "Void",
           "player_a_rating_before": 1537,
-          "player_a_rating_after": 1529,
+          "player_a_rating_after": 1530,
           "player_b_rating_before": 1525,
           "player_b_rating_after": 1532
         },
@@ -5182,7 +5182,7 @@
           "timestamp": "2024-06-29T19:39:26",
           "player_a": "Cruncher",
           "player_b": "Splinter",
-          "player_a_rating_before": 1529,
+          "player_a_rating_before": 1530,
           "player_a_rating_after": 1537,
           "player_b_rating_before": 1536,
           "player_b_rating_after": 1529
@@ -7068,7 +7068,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-01-06T02:28:24.245104",
+        "generated_at": "2026-01-06T09:44:35.349395",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -7126,22 +7126,22 @@
             1528,
             1519,
             1530,
-            1540,
-            1550,
+            1539,
+            1549,
             1561,
             1571,
             1581,
             1591,
-            1579,
+            1578,
             1563,
-            1576,
+            1575,
             1589,
             1604,
             1617,
-            1632,
+            1631,
             1642,
             1651,
-            1663,
+            1662,
             1642,
             1655,
             1636
@@ -7279,7 +7279,7 @@
             1520,
             1510,
             1501,
-            1512,
+            1511,
             1501,
             1511,
             1502,
@@ -7488,7 +7488,7 @@
         },
         {
           "name": "Chopper",
-          "current_rating": 1547,
+          "current_rating": 1546,
           "fights": 31,
           "tier": "A",
           "rating_history": [
@@ -7523,7 +7523,7 @@
             1535,
             1546,
             1557,
-            1547
+            1546
           ]
         },
         {
@@ -7726,7 +7726,7 @@
         },
         {
           "name": "Briklot",
-          "current_rating": 1509,
+          "current_rating": 1508,
           "fights": 5,
           "tier": "C",
           "rating_history": [
@@ -7735,7 +7735,7 @@
             1516,
             1525,
             1518,
-            1509
+            1508
           ]
         },
         {
@@ -7771,7 +7771,7 @@
             1494,
             1485,
             1470,
-            1454,
+            1455,
             1472,
             1463,
             1482,
@@ -8069,7 +8069,7 @@
           "rating_history": [
             1500,
             1508,
-            1517,
+            1516,
             1507,
             1498
           ]
@@ -8525,7 +8525,7 @@
             1466,
             1478,
             1489,
-            1501,
+            1500,
             1491
           ]
         },
@@ -9046,7 +9046,7 @@
         },
         {
           "name": "Ram-E",
-          "current_rating": 1454,
+          "current_rating": 1453,
           "fights": 7,
           "tier": "F",
           "rating_history": [
@@ -9057,7 +9057,7 @@
             1488,
             1481,
             1469,
-            1454
+            1453
           ]
         },
         {
@@ -12036,7 +12036,7 @@
           "player_a_rating_before": 1492,
           "player_a_rating_after": 1484,
           "player_b_rating_before": 1503,
-          "player_b_rating_after": 1511
+          "player_b_rating_after": 1512
         },
         {
           "event": "DUTS24Ants",
@@ -12085,7 +12085,7 @@
           "player_b": "Cake Batter",
           "player_a_rating_before": 1481,
           "player_a_rating_after": 1491,
-          "player_b_rating_before": 1511,
+          "player_b_rating_before": 1512,
           "player_b_rating_after": 1502
         },
         {
@@ -12314,7 +12314,7 @@
           "player_a": "Magnitude",
           "player_b": "Saurian",
           "player_a_rating_before": 1501,
-          "player_a_rating_after": 1491,
+          "player_a_rating_after": 1490,
           "player_b_rating_before": 1501,
           "player_b_rating_after": 1512
         },
@@ -12405,7 +12405,7 @@
           "player_b": "Magnitude",
           "player_a_rating_before": 1474,
           "player_a_rating_after": 1464,
-          "player_b_rating_before": 1491,
+          "player_b_rating_before": 1490,
           "player_b_rating_after": 1501
         },
         {
@@ -13614,7 +13614,7 @@
           "player_a": "Sonic 2",
           "player_b": "Blueberry Tango",
           "player_a_rating_before": 1541,
-          "player_a_rating_after": 1524,
+          "player_a_rating_after": 1523,
           "player_b_rating_before": 1516,
           "player_b_rating_after": 1533
         },
@@ -13643,7 +13643,7 @@
           "timestamp": "2025-09-13T20:36:58",
           "player_a": "Sonic 2",
           "player_b": "Popcat",
-          "player_a_rating_before": 1524,
+          "player_a_rating_before": 1523,
           "player_a_rating_after": 1538,
           "player_b_rating_before": 1482,
           "player_b_rating_after": 1468
@@ -13804,7 +13804,7 @@
           "player_a": "Sabre",
           "player_b": "No Name",
           "player_a_rating_before": 1492,
-          "player_a_rating_after": 1478,
+          "player_a_rating_after": 1479,
           "player_b_rating_before": 1555,
           "player_b_rating_after": 1568
         },
@@ -13939,7 +13939,7 @@
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-01-06T02:28:42.333783",
+        "generated_at": "2026-01-06T09:44:53.619497",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -23866,7 +23866,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-01-06T02:28:55.397857",
+        "generated_at": "2026-01-06T09:45:06.838083",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -28165,7 +28165,7 @@
           "player_a_rating_before": 1499,
           "player_a_rating_after": 1489,
           "player_b_rating_before": 1533,
-          "player_b_rating_after": 1543
+          "player_b_rating_after": 1542
         },
         {
           "event": "MFOC3lb",
@@ -28352,7 +28352,7 @@
           "timestamp": "2024-09-15T10:03:41",
           "player_a": "Notdeadyet",
           "player_b": "Twisted Sister",
-          "player_a_rating_before": 1543,
+          "player_a_rating_before": 1542,
           "player_a_rating_after": 1553,
           "player_b_rating_before": 1530,
           "player_b_rating_after": 1520
@@ -29918,7 +29918,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-01-06T02:29:02.429828",
+        "generated_at": "2026-01-06T09:45:13.950164",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -32158,7 +32158,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-01-06T02:29:08.447340",
+        "generated_at": "2026-01-06T09:45:20.034665",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -33675,7 +33675,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-01-06T02:29:12.451441",
+        "generated_at": "2026-01-06T09:45:24.105323",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -34167,7 +34167,10 @@
       "started_at": "2023-01-07T12:56:05.108-05:00",
       "standings": [],
       "friendly_name": "Melee at the Meadery 2023",
-      "weight_class": "150g"
+      "weight_class": "150g",
+      "video_links": [
+        "https://www.twitch.tv/videos/1701170395"
+      ]
     },
     "LAM23Fairy": {
       "bracket_id": "LAM23Fairy",
@@ -34237,7 +34240,11 @@
         }
       ],
       "friendly_name": "May Metal Massacre 2023",
-      "weight_class": "150g"
+      "weight_class": "150g",
+      "video_links": [
+        "https://www.twitch.tv/videos/1830312267",
+        "https://www.twitch.tv/videos/1830311872"
+      ]
     },
     "FFFFFairies": {
       "bracket_id": "FFFFFairies",
@@ -34341,7 +34348,13 @@
         }
       ],
       "friendly_name": "Bees Knees Brawl 2023",
-      "weight_class": "150g"
+      "weight_class": "150g",
+      "video_links": [
+        "https://www.twitch.tv/videos/1936191490",
+        "https://www.twitch.tv/videos/1936191281",
+        "https://www.twitch.tv/videos/1936190510",
+        "https://www.twitch.tv/videos/1936190077"
+      ]
     },
     "OCMF150G2": {
       "bracket_id": "OCMF150G2",
@@ -34465,7 +34478,10 @@
         }
       ],
       "friendly_name": "Battle For Los Angeles 2023",
-      "weight_class": "150g"
+      "weight_class": "150g",
+      "video_links": [
+        "https://www.twitch.tv/videos/1988312685"
+      ]
     },
     "D2R150g": {
       "bracket_id": "D2R150g",
@@ -34517,7 +34533,10 @@
         }
       ],
       "friendly_name": "December To Remember 2023",
-      "weight_class": "150g"
+      "weight_class": "150g",
+      "video_links": [
+        "https://www.twitch.tv/videos/1999605657"
+      ]
     },
     "MMF24Fairies": {
       "bracket_id": "MMF24Fairies",
@@ -34557,7 +34576,10 @@
         }
       ],
       "friendly_name": "Los Angeles Maker Faire 2024",
-      "weight_class": "150g"
+      "weight_class": "150g",
+      "video_links": [
+        "https://www.twitch.tv/videos/2118825336"
+      ]
     },
     "mmayhem150": {
       "bracket_id": "mmayhem150",
@@ -34661,7 +34683,10 @@
         }
       ],
       "friendly_name": "March Mechanical Mayhem 2024",
-      "weight_class": "150g"
+      "weight_class": "150g",
+      "video_links": [
+        "https://www.twitch.tv/videos/2090728673"
+      ]
     },
     "MayMetalFairy2024": {
       "bracket_id": "MayMetalFairy2024",
@@ -34833,7 +34858,10 @@
         }
       ],
       "friendly_name": "Havoc At The Hive 2024",
-      "weight_class": "150g"
+      "weight_class": "150g",
+      "video_links": [
+        "https://www.twitch.tv/videos/2187412856"
+      ]
     },
     "MFOC150g": {
       "bracket_id": "MFOC150g",
@@ -35313,7 +35341,10 @@
       "started_at": "2023-01-07T13:03:53.291-05:00",
       "standings": [],
       "friendly_name": "Melee at the Meadery 2023",
-      "weight_class": "1lb"
+      "weight_class": "1lb",
+      "video_links": [
+        "https://www.twitch.tv/videos/1701170395"
+      ]
     },
     "MMMAnts": {
       "bracket_id": "MMMAnts",
@@ -35405,7 +35436,11 @@
         }
       ],
       "friendly_name": "May Metal Massacre 2023",
-      "weight_class": "1lb"
+      "weight_class": "1lb",
+      "video_links": [
+        "https://www.twitch.tv/videos/1830312267",
+        "https://www.twitch.tv/videos/1830311872"
+      ]
     },
     "DUTS23Ants": {
       "bracket_id": "DUTS23Ants",
@@ -35593,7 +35628,10 @@
         }
       ],
       "friendly_name": "Battle For Los Angeles 2023",
-      "weight_class": "1lb"
+      "weight_class": "1lb",
+      "video_links": [
+        "https://www.twitch.tv/videos/1988312685"
+      ]
     },
     "D2R1lb": {
       "bracket_id": "D2R1lb",
@@ -35661,7 +35699,10 @@
         }
       ],
       "friendly_name": "December To Remember 2023",
-      "weight_class": "1lb"
+      "weight_class": "1lb",
+      "video_links": [
+        "https://www.twitch.tv/videos/1999605657"
+      ]
     },
     "SCARJANFCANT": {
       "bracket_id": "SCARJANFCANT",
@@ -35945,7 +35986,10 @@
         }
       ],
       "friendly_name": "Havoc At The Hive 2024",
-      "weight_class": "1lb"
+      "weight_class": "1lb",
+      "video_links": [
+        "https://www.twitch.tv/videos/2187412856"
+      ]
     },
     "DUTS24Ants": {
       "bracket_id": "DUTS24Ants",
@@ -36033,7 +36077,10 @@
         }
       ],
       "friendly_name": "Destruction Under The Stars 2024",
-      "weight_class": "1lb"
+      "weight_class": "1lb",
+      "video_links": [
+        "https://www.twitch.tv/videos/2207972896"
+      ]
     },
     "MFOC1lb": {
       "bracket_id": "MFOC1lb",
@@ -36471,7 +36518,10 @@
       "started_at": "2023-01-07T19:12:21.488+01:00",
       "standings": [],
       "friendly_name": "Melee at the Meadery 2023",
-      "weight_class": "plant"
+      "weight_class": "plant",
+      "video_links": [
+        "https://www.twitch.tv/videos/1701170395"
+      ]
     },
     "mmmplants": {
       "bracket_id": "mmmplants",
@@ -36579,7 +36629,11 @@
         }
       ],
       "friendly_name": "May Metal Massacre 2023",
-      "weight_class": "plant"
+      "weight_class": "plant",
+      "video_links": [
+        "https://www.twitch.tv/videos/1830312267",
+        "https://www.twitch.tv/videos/1830311872"
+      ]
     },
     "FFFFPlants": {
       "bracket_id": "FFFFPlants",
@@ -36751,7 +36805,13 @@
         }
       ],
       "friendly_name": "Bees Knees Brawl 2023",
-      "weight_class": "plant"
+      "weight_class": "plant",
+      "video_links": [
+        "https://www.twitch.tv/videos/1936191490",
+        "https://www.twitch.tv/videos/1936191281",
+        "https://www.twitch.tv/videos/1936190510",
+        "https://www.twitch.tv/videos/1936190077"
+      ]
     },
     "ocmfplants": {
       "bracket_id": "ocmfplants",
@@ -36883,7 +36943,10 @@
         }
       ],
       "friendly_name": "Battle For Los Angeles 2023",
-      "weight_class": "plant"
+      "weight_class": "plant",
+      "video_links": [
+        "https://www.twitch.tv/videos/1988312685"
+      ]
     },
     "D2RPlant": {
       "bracket_id": "D2RPlant",
@@ -36947,7 +37010,10 @@
         }
       ],
       "friendly_name": "December To Remember 2023",
-      "weight_class": "plant"
+      "weight_class": "plant",
+      "video_links": [
+        "https://www.twitch.tv/videos/1999605657"
+      ]
     },
     "SCARJANPLANT": {
       "bracket_id": "SCARJANPLANT",
@@ -37111,7 +37177,10 @@
         }
       ],
       "friendly_name": "March Mechanical Mayhem 2024",
-      "weight_class": "plant"
+      "weight_class": "plant",
+      "video_links": [
+        "https://www.twitch.tv/videos/2090728673"
+      ]
     },
     "MakerFair2024Plant": {
       "bracket_id": "MakerFair2024Plant",
@@ -37171,7 +37240,10 @@
         }
       ],
       "friendly_name": "Los Angeles Maker Faire 2024",
-      "weight_class": "plant"
+      "weight_class": "plant",
+      "video_links": [
+        "https://www.twitch.tv/videos/2118825336"
+      ]
     },
     "PlasticPandemoniumOpen": {
       "bracket_id": "PlasticPandemoniumOpen",
@@ -38163,7 +38235,11 @@
         }
       ],
       "friendly_name": "May Metal Massacre 2023",
-      "weight_class": "3lb"
+      "weight_class": "3lb",
+      "video_links": [
+        "https://www.twitch.tv/videos/1830312267",
+        "https://www.twitch.tv/videos/1830311872"
+      ]
     },
     "DUTS23Beetles": {
       "bracket_id": "DUTS23Beetles",
@@ -38379,7 +38455,10 @@
         }
       ],
       "friendly_name": "Battle For Los Angeles 2023",
-      "weight_class": "3lb"
+      "weight_class": "3lb",
+      "video_links": [
+        "https://www.twitch.tv/videos/1988312685"
+      ]
     },
     "D2R3lb": {
       "bracket_id": "D2R3lb",
@@ -38431,7 +38510,10 @@
         }
       ],
       "friendly_name": "December To Remember 2023",
-      "weight_class": "3lb"
+      "weight_class": "3lb",
+      "video_links": [
+        "https://www.twitch.tv/videos/1999605657"
+      ]
     },
     "mmayhem3lb": {
       "bracket_id": "mmayhem3lb",
@@ -38503,7 +38585,10 @@
         }
       ],
       "friendly_name": "March Mechanical Mayhem 2024",
-      "weight_class": "3lb"
+      "weight_class": "3lb",
+      "video_links": [
+        "https://www.twitch.tv/videos/2090728673"
+      ]
     },
     "MayMetalBeetle2024": {
       "bracket_id": "MayMetalBeetle2024",
@@ -38671,7 +38756,10 @@
         }
       ],
       "friendly_name": "Destruction Under The Stars 2024",
-      "weight_class": "3lb"
+      "weight_class": "3lb",
+      "video_links": [
+        "https://www.twitch.tv/videos/2207972896"
+      ]
     },
     "MFOC3lb": {
       "bracket_id": "MFOC3lb",
@@ -39225,7 +39313,11 @@
         }
       ],
       "friendly_name": "May Metal Massacre 2023",
-      "weight_class": "12lb"
+      "weight_class": "12lb",
+      "video_links": [
+        "https://www.twitch.tv/videos/1830312267",
+        "https://www.twitch.tv/videos/1830311872"
+      ]
     },
     "ocmf12lb": {
       "bracket_id": "ocmf12lb",
@@ -39297,7 +39389,10 @@
         }
       ],
       "friendly_name": "Battle For Los Angeles 2023",
-      "weight_class": "12lb"
+      "weight_class": "12lb",
+      "video_links": [
+        "https://www.twitch.tv/videos/1988312685"
+      ]
     },
     "MayMetalHobby2024": {
       "bracket_id": "MayMetalHobby2024",
@@ -39596,7 +39691,11 @@
         }
       ],
       "friendly_name": "May Metal Massacre 2023",
-      "weight_class": "30lb"
+      "weight_class": "30lb",
+      "video_links": [
+        "https://www.twitch.tv/videos/1830312267",
+        "https://www.twitch.tv/videos/1830311872"
+      ]
     },
     "BFLA30lbFC": {
       "bracket_id": "BFLA30lbFC",
@@ -39620,7 +39719,10 @@
         }
       ],
       "friendly_name": "Battle For Los Angeles 2023",
-      "weight_class": "30lb"
+      "weight_class": "30lb",
+      "video_links": [
+        "https://www.twitch.tv/videos/1988312685"
+      ]
     },
     "MayMetalFeather2024": {
       "bracket_id": "MayMetalFeather2024",
@@ -39859,7 +39961,10 @@
         }
       ],
       "friendly_name": "Battle For Los Angeles 2023",
-      "weight_class": "30lb_sportsman"
+      "weight_class": "30lb_sportsman",
+      "video_links": [
+        "https://www.twitch.tv/videos/1988312685"
+      ]
     },
     "MayMetalSportFeather2024": {
       "bracket_id": "MayMetalSportFeather2024",
