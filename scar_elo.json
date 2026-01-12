@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-01-12T09:04:53.748444",
+    "generated_at": "2026-01-12T09:51:51.740968",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-01-12T09:03:50.431056",
+        "generated_at": "2026-01-12T09:50:49.397504",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -7068,7 +7068,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-01-12T09:04:04.685288",
+        "generated_at": "2026-01-12T09:51:03.467277",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -7472,7 +7472,7 @@
             1507,
             1501,
             1511,
-            1501,
+            1500,
             1510,
             1521,
             1531,
@@ -8445,19 +8445,6 @@
           ]
         },
         {
-          "name": "Bonk",
-          "current_rating": 1493,
-          "fights": 4,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1498,
-            1496,
-            1495,
-            1493
-          ]
-        },
-        {
           "name": "Cake Batter",
           "current_rating": 1493,
           "fights": 12,
@@ -8475,6 +8462,19 @@
             1501,
             1512,
             1503,
+            1493
+          ]
+        },
+        {
+          "name": "Bonk",
+          "current_rating": 1493,
+          "fights": 4,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1498,
+            1496,
+            1495,
             1493
           ]
         },
@@ -8521,7 +8521,7 @@
             1500,
             1494,
             1485,
-            1476,
+            1477,
             1467,
             1478,
             1489,
@@ -8957,7 +8957,7 @@
             1471,
             1484,
             1474,
-            1488,
+            1487,
             1501,
             1516,
             1505,
@@ -11996,7 +11996,7 @@
           "player_a_rating_before": 1481,
           "player_a_rating_after": 1473,
           "player_b_rating_before": 1509,
-          "player_b_rating_after": 1517
+          "player_b_rating_after": 1516
         },
         {
           "event": "DUTS24Ants",
@@ -12123,7 +12123,7 @@
           "timestamp": "2024-08-10T12:52:29",
           "player_a": "Double-O Negative",
           "player_b": ".____________.",
-          "player_a_rating_before": 1517,
+          "player_a_rating_before": 1516,
           "player_a_rating_after": 1508,
           "player_b_rating_before": 1509,
           "player_b_rating_after": 1517
@@ -12176,7 +12176,7 @@
           "player_a_rating_before": 1501,
           "player_a_rating_after": 1510,
           "player_b_rating_before": 1500,
-          "player_b_rating_after": 1492
+          "player_b_rating_after": 1491
         },
         {
           "event": "DUTS24Ants",
@@ -12186,7 +12186,7 @@
           "player_a_rating_before": 1567,
           "player_a_rating_after": 1574,
           "player_b_rating_before": 1525,
-          "player_b_rating_after": 1518
+          "player_b_rating_after": 1517
         },
         {
           "event": "DUTS24Ants",
@@ -12233,7 +12233,7 @@
           "timestamp": "2024-08-10T14:46:06",
           "player_a": "Briklot",
           "player_b": "Tiramisu",
-          "player_a_rating_before": 1518,
+          "player_a_rating_before": 1517,
           "player_a_rating_after": 1509,
           "player_b_rating_before": 1510,
           "player_b_rating_after": 1519
@@ -12283,8 +12283,8 @@
           "timestamp": "2024-09-15T01:45:01",
           "player_a": "Eye Max",
           "player_b": "Sonic 2",
-          "player_a_rating_before": 1492,
-          "player_a_rating_after": 1482,
+          "player_a_rating_before": 1491,
+          "player_a_rating_after": 1481,
           "player_b_rating_before": 1501,
           "player_b_rating_after": 1511
         },
@@ -12415,7 +12415,7 @@
           "player_b": "Eye Max",
           "player_a_rating_before": 1500,
           "player_a_rating_after": 1510,
-          "player_b_rating_before": 1482,
+          "player_b_rating_before": 1481,
           "player_b_rating_after": 1472
         },
         {
@@ -12576,7 +12576,7 @@
           "player_a_rating_before": 1531,
           "player_a_rating_after": 1522,
           "player_b_rating_before": 1562,
-          "player_b_rating_after": 1571
+          "player_b_rating_after": 1572
         },
         {
           "event": "MFOC1lb",
@@ -12625,7 +12625,7 @@
           "player_b": "No Name",
           "player_a_rating_before": 1548,
           "player_a_rating_after": 1559,
-          "player_b_rating_before": 1571,
+          "player_b_rating_before": 1572,
           "player_b_rating_after": 1561
         },
         {
@@ -13939,7 +13939,7 @@
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-01-12T09:04:23.043153",
+        "generated_at": "2026-01-12T09:51:21.564378",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -23866,7 +23866,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-01-12T09:04:36.330388",
+        "generated_at": "2026-01-12T09:51:34.635590",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -25528,7 +25528,7 @@
             1493,
             1495,
             1493,
-            1487,
+            1488,
             1493,
             1499,
             1505,
@@ -25598,7 +25598,7 @@
             1500,
             1496,
             1493,
-            1499,
+            1498,
             1493,
             1487,
             1479,
@@ -27943,7 +27943,7 @@
           "player_a": "Guacamole",
           "player_b": "Wicked Twister",
           "player_a_rating_before": 1480,
-          "player_a_rating_after": 1472,
+          "player_a_rating_after": 1471,
           "player_b_rating_before": 1499,
           "player_b_rating_after": 1507
         },
@@ -29023,7 +29023,7 @@
           "player_a": "Drop Bear",
           "player_b": "Applesauce",
           "player_a_rating_before": 1482,
-          "player_a_rating_after": 1498,
+          "player_a_rating_after": 1499,
           "player_b_rating_before": 1484,
           "player_b_rating_after": 1468
         },
@@ -29034,7 +29034,7 @@
           "player_b": "Drop Bear",
           "player_a_rating_before": 1528,
           "player_a_rating_after": 1543,
-          "player_b_rating_before": 1498,
+          "player_b_rating_before": 1499,
           "player_b_rating_after": 1484
         },
         {
@@ -29918,7 +29918,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-01-12T09:04:43.455120",
+        "generated_at": "2026-01-12T09:51:41.675562",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -32158,7 +32158,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-01-12T09:04:49.581310",
+        "generated_at": "2026-01-12T09:51:47.711372",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -33675,7 +33675,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-01-12T09:04:53.747902",
+        "generated_at": "2026-01-12T09:51:51.740968",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
