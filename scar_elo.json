@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-01-12T09:51:51.740968",
+    "generated_at": "2026-01-12T10:17:45.047022",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-01-12T09:50:49.397504",
+        "generated_at": "2026-01-12T10:16:42.694038",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -671,7 +671,7 @@
             1533,
             1550,
             1537,
-            1521,
+            1520,
             1536,
             1523,
             1537,
@@ -7068,7 +7068,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-01-12T09:51:03.467277",
+        "generated_at": "2026-01-12T10:16:56.763154",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -7118,7 +7118,7 @@
             1491,
             1498,
             1492,
-            1501,
+            1500,
             1492,
             1501,
             1509,
@@ -7389,7 +7389,7 @@
             1576,
             1563,
             1573,
-            1584,
+            1583,
             1596,
             1582,
             1593,
@@ -12076,7 +12076,7 @@
           "player_a_rating_before": 1504,
           "player_a_rating_after": 1513,
           "player_b_rating_before": 1501,
-          "player_b_rating_after": 1493
+          "player_b_rating_after": 1492
         },
         {
           "event": "DUTS24Ants",
@@ -12163,7 +12163,7 @@
           "timestamp": "2024-08-10T13:22:39",
           "player_a": "Tiramisu",
           "player_b": "Sabre",
-          "player_a_rating_before": 1493,
+          "player_a_rating_before": 1492,
           "player_a_rating_after": 1501,
           "player_b_rating_before": 1495,
           "player_b_rating_after": 1486
@@ -12236,7 +12236,7 @@
           "player_a_rating_before": 1517,
           "player_a_rating_after": 1509,
           "player_b_rating_before": 1510,
-          "player_b_rating_after": 1519
+          "player_b_rating_after": 1518
         },
         {
           "event": "DUTS24Ants",
@@ -12245,7 +12245,7 @@
           "player_b": "Tiramisu",
           "player_a_rating_before": 1533,
           "player_a_rating_after": 1524,
-          "player_b_rating_before": 1519,
+          "player_b_rating_before": 1518,
           "player_b_rating_after": 1527
         },
         {
@@ -12496,7 +12496,7 @@
           "player_a_rating_before": 1520,
           "player_a_rating_after": 1531,
           "player_b_rating_before": 1534,
-          "player_b_rating_after": 1523
+          "player_b_rating_after": 1524
         },
         {
           "event": "MFOC1lb",
@@ -12553,7 +12553,7 @@
           "timestamp": "2024-09-15T06:56:15",
           "player_a": "Cheese Grater",
           "player_b": "Golden Smurf",
-          "player_a_rating_before": 1523,
+          "player_a_rating_before": 1524,
           "player_a_rating_after": 1512,
           "player_b_rating_before": 1490,
           "player_b_rating_after": 1501
@@ -13584,7 +13584,7 @@
           "player_a": "Tiramisu",
           "player_b": "Claw Dragon",
           "player_a_rating_before": 1631,
-          "player_a_rating_after": 1642,
+          "player_a_rating_after": 1641,
           "player_b_rating_before": 1516,
           "player_b_rating_after": 1505
         },
@@ -13693,7 +13693,7 @@
           "timestamp": "2025-09-13T20:53:06",
           "player_a": "Tiramisu",
           "player_b": "Subdivision",
-          "player_a_rating_before": 1642,
+          "player_a_rating_before": 1641,
           "player_a_rating_after": 1650,
           "player_b_rating_before": 1473,
           "player_b_rating_after": 1465
@@ -13939,7 +13939,7 @@
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-01-12T09:51:21.564378",
+        "generated_at": "2026-01-12T10:17:14.879182",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -23866,7 +23866,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-01-12T09:51:34.635590",
+        "generated_at": "2026-01-12T10:17:27.958902",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -23945,7 +23945,7 @@
         },
         {
           "name": "MAG",
-          "current_rating": 1598,
+          "current_rating": 1597,
           "fights": 35,
           "tier": "S",
           "rating_history": [
@@ -23973,18 +23973,18 @@
             1586,
             1596,
             1608,
-            1619,
+            1618,
             1601,
             1612,
             1623,
             1636,
             1620,
             1634,
-            1619,
+            1618,
             1628,
             1607,
             1617,
-            1598
+            1597
           ]
         },
         {
@@ -24787,23 +24787,6 @@
           ]
         },
         {
-          "name": "Crescendo",
-          "current_rating": 1499,
-          "fights": 8,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1501,
-            1503,
-            1501,
-            1499,
-            1505,
-            1511,
-            1505,
-            1499
-          ]
-        },
-        {
           "name": "Stryder",
           "current_rating": 1499,
           "fights": 12,
@@ -24834,6 +24817,23 @@
             1513,
             1530,
             1514,
+            1499
+          ]
+        },
+        {
+          "name": "Crescendo",
+          "current_rating": 1499,
+          "fights": 8,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1501,
+            1503,
+            1501,
+            1499,
+            1505,
+            1511,
+            1505,
             1499
           ]
         },
@@ -27843,7 +27843,7 @@
           "player_a": "Hangry Hedgehogs",
           "player_b": "MAG",
           "player_a_rating_before": 1528,
-          "player_a_rating_after": 1523,
+          "player_a_rating_after": 1522,
           "player_b_rating_before": 1538,
           "player_b_rating_after": 1544
         },
@@ -28072,7 +28072,7 @@
           "timestamp": "2024-09-14T10:37:49",
           "player_a": "Hangry Hedgehogs",
           "player_b": "Lucid",
-          "player_a_rating_before": 1523,
+          "player_a_rating_before": 1522,
           "player_a_rating_after": 1532,
           "player_b_rating_before": 1491,
           "player_b_rating_after": 1482
@@ -28443,7 +28443,7 @@
           "player_a": "Notdeadyet",
           "player_b": "MAG",
           "player_a_rating_before": 1551,
-          "player_a_rating_after": 1542,
+          "player_a_rating_after": 1541,
           "player_b_rating_before": 1571,
           "player_b_rating_after": 1581
         },
@@ -28512,7 +28512,7 @@
           "timestamp": "2024-09-15T14:12:53",
           "player_a": "Notdeadyet",
           "player_b": "Hangry Hedgehogs",
-          "player_a_rating_before": 1542,
+          "player_a_rating_before": 1541,
           "player_a_rating_after": 1532,
           "player_b_rating_before": 1559,
           "player_b_rating_after": 1569
@@ -28825,7 +28825,7 @@
           "player_a_rating_before": 1540,
           "player_a_rating_after": 1529,
           "player_b_rating_before": 1597,
-          "player_b_rating_after": 1609
+          "player_b_rating_after": 1608
         },
         {
           "event": "NBB24",
@@ -28833,7 +28833,7 @@
           "player_a": "Sandstorm",
           "player_b": "THX",
           "player_a_rating_before": 1532,
-          "player_a_rating_after": 1546,
+          "player_a_rating_after": 1545,
           "player_b_rating_before": 1528,
           "player_b_rating_after": 1514
         },
@@ -28844,7 +28844,7 @@
           "player_b": "MAG",
           "player_a_rating_before": 1521,
           "player_a_rating_after": 1510,
-          "player_b_rating_before": 1609,
+          "player_b_rating_before": 1608,
           "player_b_rating_after": 1619
         },
         {
@@ -28854,7 +28854,7 @@
           "player_b": "Sandstorm",
           "player_a_rating_before": 1516,
           "player_a_rating_after": 1531,
-          "player_b_rating_before": 1546,
+          "player_b_rating_before": 1545,
           "player_b_rating_after": 1530
         },
         {
@@ -29383,7 +29383,7 @@
           "player_a": "Venator",
           "player_b": "Helltongue",
           "player_a_rating_before": 1533,
-          "player_a_rating_after": 1517,
+          "player_a_rating_after": 1516,
           "player_b_rating_before": 1514,
           "player_b_rating_after": 1531
         },
@@ -29422,7 +29422,7 @@
           "timestamp": "2025-09-14T14:28:13",
           "player_a": "Venator",
           "player_b": "Wilbur",
-          "player_a_rating_before": 1517,
+          "player_a_rating_before": 1516,
           "player_a_rating_after": 1531,
           "player_b_rating_before": 1492,
           "player_b_rating_after": 1477
@@ -29918,7 +29918,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-01-12T09:51:41.675562",
+        "generated_at": "2026-01-12T10:17:35.006169",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -32158,7 +32158,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-01-12T09:51:47.711372",
+        "generated_at": "2026-01-12T10:17:41.030325",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -33675,7 +33675,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-01-12T09:51:51.740968",
+        "generated_at": "2026-01-12T10:17:45.047022",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
