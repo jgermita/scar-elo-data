@@ -3051,7 +3051,7 @@
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/10902/Screenshot_20241025-225609.png"
         },
         "Yonah": {
-            "team": "kodiak robotics",
+            "team": "Team Kodiak",
             "bot_url": "https://www.robotcombatevents.com/groups/1779/resources/8650",
             "team_url": "https://www.robotcombatevents.com/groups/1779",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/8650/3lb_Combat_Robot.126-min.png"
@@ -3493,6 +3493,42 @@
             "bot_url": "https://www.robotcombatevents.com/groups/2026/resources/8220",
             "team_url": "https://www.robotcombatevents.com/groups/2026",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/8220/Placeholder.png"
+        },
+        "Vision": {
+            "team": "UCSB Combat Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/11240/resources/25192",
+            "team_url": "https://www.robotcombatevents.com/groups/11240",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "TheGaming": {
+            "team": "Team NEET",
+            "bot_url": "https://www.robotcombatevents.com/groups/9487/resources/25414",
+            "team_url": "https://www.robotcombatevents.com/groups/9487",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/25414/thegaming_mk3_v60.png"
+        },
+        "Slice To Meet You": {
+            "team": "ProTeam",
+            "bot_url": "https://www.robotcombatevents.com/groups/9072/resources/25427",
+            "team_url": "https://www.robotcombatevents.com/groups/9072",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "pAIn": {
+            "team": "CSBB",
+            "bot_url": "https://www.robotcombatevents.com/groups/9523/resources/23832",
+            "team_url": "https://www.robotcombatevents.com/groups/9523",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "Insitutionalized": {
+            "team": "Sadistic Tendencies Expressed Mechanically (STEM)",
+            "bot_url": "https://www.robotcombatevents.com/groups/11518/resources/25871",
+            "team_url": "https://www.robotcombatevents.com/groups/11518",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
+        },
+        "Big Jank": {
+            "team": "Caltech Robotics Team",
+            "bot_url": "https://www.robotcombatevents.com/groups/11617/resources/26095",
+            "team_url": "https://www.robotcombatevents.com/groups/11617",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png"
         }
     },
     "30lb": {

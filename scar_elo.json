@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-03-02T09:34:50.985023",
+    "generated_at": "2026-03-02T09:48:42.661808",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-03-02T09:33:47.083614",
+        "generated_at": "2026-03-02T09:47:38.802422",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -7599,7 +7599,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-03-02T09:34:02.302508",
+        "generated_at": "2026-03-02T09:47:54.001160",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -9203,7 +9203,7 @@
         },
         {
           "name": "Golden Smurf",
-          "current_rating": 1492,
+          "current_rating": 1493,
           "fights": 10,
           "tier": "C",
           "rating_history": [
@@ -9217,7 +9217,7 @@
             1483,
             1491,
             1500,
-            1492
+            1493
           ]
         },
         {
@@ -15032,7 +15032,7 @@
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-03-02T09:34:20.544770",
+        "generated_at": "2026-03-02T09:48:12.245501",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -24959,7 +24959,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-03-02T09:34:33.718780",
+        "generated_at": "2026-03-02T09:48:25.413817",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -25149,7 +25149,7 @@
             1508,
             1523,
             1538,
-            1556,
+            1555,
             1571,
             1587,
             1576
@@ -26388,7 +26388,7 @@
             1489,
             1479,
             1498,
-            1484,
+            1483,
             1500,
             1490
           ]
@@ -29346,7 +29346,7 @@
           "player_a": "Drop Bear",
           "player_b": "Wilbur",
           "player_a_rating_before": 1490,
-          "player_a_rating_after": 1482,
+          "player_a_rating_after": 1483,
           "player_b_rating_before": 1492,
           "player_b_rating_after": 1500
         },
@@ -31011,7 +31011,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-03-02T09:34:40.825727",
+        "generated_at": "2026-03-02T09:48:32.512842",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -33251,7 +33251,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-03-02T09:34:46.916494",
+        "generated_at": "2026-03-02T09:48:38.598659",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -34768,7 +34768,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-03-02T09:34:50.985023",
+        "generated_at": "2026-03-02T09:48:42.661808",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
