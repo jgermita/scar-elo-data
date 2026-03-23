@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T19:27:32.012683",
+    "generated_at": "2026-03-22T19:37:31.142340",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-03-22T19:26:23.487134",
+        "generated_at": "2026-03-22T19:36:24.235782",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -8108,7 +8108,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-03-22T19:26:40.111182",
+        "generated_at": "2026-03-22T19:36:40.448647",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -8181,7 +8181,7 @@
             1615,
             1627,
             1636,
-            1649,
+            1648,
             1629,
             1642,
             1623,
@@ -8521,7 +8521,7 @@
             1529,
             1543,
             1558,
-            1543,
+            1542,
             1556,
             1540
           ]
@@ -8549,7 +8549,7 @@
             1502,
             1510,
             1519,
-            1527,
+            1528,
             1537,
             1545,
             1537
@@ -8759,7 +8759,7 @@
             1521,
             1519,
             1522,
-            1518,
+            1519,
             1522,
             1525,
             1529,
@@ -12687,7 +12687,7 @@
           "player_a": "Obake",
           "player_b": "Night Force",
           "player_a_rating_before": 1511,
-          "player_a_rating_after": 1508,
+          "player_a_rating_after": 1507,
           "player_b_rating_before": 1531,
           "player_b_rating_after": 1534
         },
@@ -12699,17 +12699,17 @@
           "player_a_rating_before": 1503,
           "player_a_rating_after": 1507,
           "player_b_rating_before": 1529,
-          "player_b_rating_after": 1525
+          "player_b_rating_after": 1526
         },
         {
           "event": "MayMetalAnt2024",
           "timestamp": "2024-05-25T21:32:49",
           "player_a": "Obake",
           "player_b": "Counter-Punch",
-          "player_a_rating_before": 1508,
+          "player_a_rating_before": 1507,
           "player_a_rating_after": 1504,
           "player_b_rating_before": 1507,
-          "player_b_rating_after": 1511
+          "player_b_rating_after": 1510
         },
         {
           "event": "MayMetalAnt2024",
@@ -12718,7 +12718,7 @@
           "player_b": "Counter-Punch",
           "player_a_rating_before": 1534,
           "player_a_rating_after": 1538,
-          "player_b_rating_before": 1511,
+          "player_b_rating_before": 1510,
           "player_b_rating_after": 1507
         },
         {
@@ -12758,7 +12758,7 @@
           "player_b": "Lopper",
           "player_a_rating_before": 1538,
           "player_a_rating_after": 1542,
-          "player_b_rating_before": 1525,
+          "player_b_rating_before": 1526,
           "player_b_rating_after": 1521
         },
         {
@@ -15832,7 +15832,7 @@
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-03-22T19:27:00.047000",
+        "generated_at": "2026-03-22T19:36:59.698792",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -15915,9 +15915,9 @@
             1486,
             1496,
             1487,
-            1501,
+            1500,
             1513,
-            1526,
+            1525,
             1539,
             1528,
             1541,
@@ -16118,7 +16118,7 @@
             1523,
             1535,
             1546,
-            1533,
+            1532,
             1545,
             1532,
             1546,
@@ -16138,7 +16138,7 @@
             1573,
             1561,
             1576,
-            1592,
+            1591,
             1610,
             1597
           ]
@@ -17177,7 +17177,7 @@
             1497,
             1501,
             1504,
-            1500,
+            1501,
             1508,
             1514,
             1507,
@@ -18367,6 +18367,28 @@
           ]
         },
         {
+          "name": "The Maker",
+          "current_rating": 1491,
+          "fights": 13,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1502,
+            1500,
+            1497,
+            1500,
+            1497,
+            1493,
+            1486,
+            1479,
+            1471,
+            1481,
+            1490,
+            1499,
+            1491
+          ]
+        },
+        {
           "name": "Bazooka",
           "current_rating": 1491,
           "fights": 17,
@@ -18389,28 +18411,6 @@
             1496,
             1505,
             1498,
-            1491
-          ]
-        },
-        {
-          "name": "The Maker",
-          "current_rating": 1491,
-          "fights": 13,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1502,
-            1500,
-            1497,
-            1500,
-            1497,
-            1493,
-            1486,
-            1479,
-            1471,
-            1480,
-            1490,
-            1499,
             1491
           ]
         },
@@ -23882,7 +23882,7 @@
           "player_a_rating_before": 1500,
           "player_a_rating_after": 1491,
           "player_b_rating_before": 1481,
-          "player_b_rating_after": 1490
+          "player_b_rating_after": 1491
         },
         {
           "event": "SCARHalloweenPLANT2024",
@@ -23921,7 +23921,7 @@
           "player_b": "The Maker",
           "player_a_rating_before": 1509,
           "player_a_rating_after": 1499,
-          "player_b_rating_before": 1490,
+          "player_b_rating_before": 1491,
           "player_b_rating_after": 1500
         },
         {
@@ -24212,7 +24212,7 @@
           "player_a_rating_before": 1497,
           "player_a_rating_after": 1485,
           "player_b_rating_before": 1513,
-          "player_b_rating_after": 1525
+          "player_b_rating_after": 1524
         },
         {
           "event": "cubeboticscombatplants",
@@ -24291,7 +24291,7 @@
           "player_b": "Electroluminescent",
           "player_a_rating_before": 1581,
           "player_a_rating_after": 1591,
-          "player_b_rating_before": 1525,
+          "player_b_rating_before": 1524,
           "player_b_rating_after": 1514
         },
         {
@@ -24380,7 +24380,7 @@
           "player_a": "Drumstick",
           "player_b": "Leo Bot",
           "player_a_rating_before": 1532,
-          "player_a_rating_after": 1516,
+          "player_a_rating_after": 1515,
           "player_b_rating_before": 1525,
           "player_b_rating_after": 1541
         },
@@ -24491,7 +24491,7 @@
           "player_b": "Drumstick",
           "player_a_rating_before": 1455,
           "player_a_rating_after": 1442,
-          "player_b_rating_before": 1516,
+          "player_b_rating_before": 1515,
           "player_b_rating_after": 1529
         },
         {
@@ -25940,7 +25940,7 @@
           "player_a": "Mod Bot",
           "player_b": "Zero",
           "player_a_rating_before": 1564,
-          "player_a_rating_after": 1578,
+          "player_a_rating_after": 1577,
           "player_b_rating_before": 1500,
           "player_b_rating_after": 1487
         },
@@ -26111,7 +26111,7 @@
           "player_b": "Mod Bot",
           "player_a_rating_before": 1531,
           "player_a_rating_after": 1549,
-          "player_b_rating_before": 1578,
+          "player_b_rating_before": 1577,
           "player_b_rating_after": 1559
         },
         {
@@ -26305,7 +26305,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-03-22T19:27:14.919030",
+        "generated_at": "2026-03-22T19:37:13.889833",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -32447,7 +32447,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-03-22T19:27:21.953715",
+        "generated_at": "2026-03-22T19:37:20.993324",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -32491,10 +32491,10 @@
             1511,
             1514,
             1518,
-            1514,
+            1515,
             1511,
             1518,
-            1510,
+            1511,
             1517,
             1524,
             1531,
@@ -32554,7 +32554,7 @@
         },
         {
           "name": "Creature",
-          "current_rating": 1556,
+          "current_rating": 1555,
           "fights": 23,
           "tier": "A",
           "rating_history": [
@@ -32571,9 +32571,9 @@
             1512,
             1515,
             1519,
-            1523,
+            1522,
             1537,
-            1521,
+            1520,
             1535,
             1550,
             1533,
@@ -32581,7 +32581,7 @@
             1565,
             1551,
             1569,
-            1556
+            1555
           ]
         },
         {
@@ -32591,7 +32591,7 @@
           "tier": "B",
           "rating_history": [
             1500,
-            1507,
+            1506,
             1514,
             1521,
             1514,
@@ -33872,7 +33872,7 @@
           "player_a": "Full Court",
           "player_b": "Creature",
           "player_a_rating_before": 1515,
-          "player_a_rating_after": 1511,
+          "player_a_rating_after": 1512,
           "player_b_rating_before": 1519,
           "player_b_rating_after": 1523
         },
@@ -33931,7 +33931,7 @@
           "timestamp": "2024-09-15T20:32:30",
           "player_a": "Full Court",
           "player_b": "Hemlock",
-          "player_a_rating_before": 1511,
+          "player_a_rating_before": 1512,
           "player_a_rating_after": 1518,
           "player_b_rating_before": 1500,
           "player_b_rating_after": 1493
@@ -34124,7 +34124,7 @@
           "player_a_rating_before": 1514,
           "player_a_rating_after": 1522,
           "player_b_rating_before": 1538,
-          "player_b_rating_after": 1530
+          "player_b_rating_after": 1531
         },
         {
           "event": "MFOC12lb",
@@ -34181,7 +34181,7 @@
           "timestamp": "2025-03-08T16:50:23",
           "player_a": "Full Court",
           "player_b": "Opossum Party",
-          "player_a_rating_before": 1530,
+          "player_a_rating_before": 1531,
           "player_a_rating_after": 1545,
           "player_b_rating_before": 1515,
           "player_b_rating_after": 1500
@@ -34252,7 +34252,7 @@
           "player_a": "Creature",
           "player_b": "Loco Moco",
           "player_a_rating_before": 1521,
-          "player_a_rating_after": 1536,
+          "player_a_rating_after": 1535,
           "player_b_rating_before": 1501,
           "player_b_rating_after": 1487
         },
@@ -34273,7 +34273,7 @@
           "player_b": "Creature",
           "player_a_rating_before": 1530,
           "player_a_rating_after": 1515,
-          "player_b_rating_before": 1536,
+          "player_b_rating_before": 1535,
           "player_b_rating_after": 1551
         },
         {
@@ -34687,7 +34687,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-03-22T19:27:27.985955",
+        "generated_at": "2026-03-22T19:37:27.081518",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -36204,7 +36204,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-03-22T19:27:32.012683",
+        "generated_at": "2026-03-22T19:37:31.142340",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -38065,7 +38065,7 @@
           "rank": 17
         }
       ],
-      "friendly_name": "May Metal Massacre 2026",
+      "friendly_name": "March Mechanical Mayhem 2026",
       "weight_class": "150g"
     },
     "1lbsmeaderymelee": {
