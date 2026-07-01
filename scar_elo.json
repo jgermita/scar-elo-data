@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T22:56:23.180018",
+    "generated_at": "2026-06-30T23:24:37.989573",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-06-30T22:55:10.815294",
+        "generated_at": "2026-06-30T23:23:25.608844",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -633,7 +633,7 @@
             1518,
             1510,
             1518,
-            1526,
+            1525,
             1518,
             1505,
             1493,
@@ -736,13 +736,13 @@
             1505,
             1518,
             1506,
-            1521,
+            1522,
             1506,
             1521,
             1537,
             1554,
             1538,
-            1519,
+            1520,
             1533,
             1515
           ]
@@ -6374,7 +6374,7 @@
           "player_a": "Cruncher",
           "player_b": "Bit Reaper",
           "player_a_rating_before": 1516,
-          "player_a_rating_after": 1509,
+          "player_a_rating_after": 1508,
           "player_b_rating_before": 1508,
           "player_b_rating_after": 1516
         },
@@ -6463,7 +6463,7 @@
           "timestamp": "2025-04-12T11:52:11",
           "player_a": "Cruncher",
           "player_b": "Veni Vidi Vici",
-          "player_a_rating_before": 1509,
+          "player_a_rating_before": 1508,
           "player_a_rating_after": 1521,
           "player_b_rating_before": 1524,
           "player_b_rating_after": 1512
@@ -8514,7 +8514,7 @@
           "player_a": "Titan",
           "player_b": "‘merica",
           "player_a_rating_before": 1545,
-          "player_a_rating_after": 1529,
+          "player_a_rating_after": 1528,
           "player_b_rating_before": 1541,
           "player_b_rating_after": 1558
         },
@@ -8819,7 +8819,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-06-30T22:55:27.908917",
+        "generated_at": "2026-06-30T23:23:42.685423",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -16876,7 +16876,7 @@
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-06-30T22:55:49.021108",
+        "generated_at": "2026-06-30T23:24:03.799349",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -17113,7 +17113,7 @@
             1562,
             1544,
             1559,
-            1574,
+            1573,
             1587,
             1601,
             1617,
@@ -17131,7 +17131,7 @@
             1682,
             1691,
             1673,
-            1686,
+            1685,
             1667
           ]
         },
@@ -17384,7 +17384,7 @@
             1585,
             1567,
             1549,
-            1562,
+            1563,
             1546,
             1561,
             1575,
@@ -26939,7 +26939,7 @@
           "player_a_rating_before": 1567,
           "player_a_rating_after": 1556,
           "player_b_rating_before": 1687,
-          "player_b_rating_after": 1698
+          "player_b_rating_after": 1697
         },
         {
           "event": "MFOCPlant2025",
@@ -26948,7 +26948,7 @@
           "player_b": "Planta",
           "player_a_rating_before": 1690,
           "player_a_rating_after": 1706,
-          "player_b_rating_before": 1698,
+          "player_b_rating_before": 1697,
           "player_b_rating_after": 1681
         },
         {
@@ -27889,7 +27889,7 @@
           "player_a_rating_before": 1714,
           "player_a_rating_after": 1722,
           "player_b_rating_before": 1522,
-          "player_b_rating_after": 1514
+          "player_b_rating_after": 1515
         },
         {
           "event": "catcplant",
@@ -27986,7 +27986,7 @@
           "timestamp": "2026-04-27T04:41:06",
           "player_a": "Leo Bot",
           "player_b": "Danger Zone",
-          "player_a_rating_before": 1514,
+          "player_a_rating_before": 1515,
           "player_a_rating_after": 1506,
           "player_b_rating_before": 1688,
           "player_b_rating_after": 1697
@@ -28462,7 +28462,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-06-30T22:56:04.095628",
+        "generated_at": "2026-06-30T23:24:18.880811",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -35072,7 +35072,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-06-30T22:56:12.126726",
+        "generated_at": "2026-06-30T23:24:26.925069",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -35327,7 +35327,7 @@
             1500,
             1503,
             1508,
-            1512,
+            1511,
             1508,
             1512,
             1508,
@@ -35527,18 +35527,6 @@
           ]
         },
         {
-          "name": "Maverick",
-          "current_rating": 1498,
-          "fights": 3,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1501,
-            1500,
-            1498
-          ]
-        },
-        {
           "name": "Canned Meat",
           "current_rating": 1498,
           "fights": 7,
@@ -35551,6 +35539,18 @@
             1502,
             1506,
             1502,
+            1498
+          ]
+        },
+        {
+          "name": "Maverick",
+          "current_rating": 1498,
+          "fights": 3,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1501,
+            1500,
             1498
           ]
         },
@@ -36925,7 +36925,7 @@
           "player_a_rating_before": 1531,
           "player_a_rating_after": 1541,
           "player_b_rating_before": 1519,
-          "player_b_rating_after": 1509
+          "player_b_rating_after": 1508
         },
         {
           "event": "BBB12lb",
@@ -36952,7 +36952,7 @@
           "timestamp": "2025-03-08T19:17:51",
           "player_a": "Grizz",
           "player_b": "Toobrichard",
-          "player_a_rating_before": 1509,
+          "player_a_rating_before": 1508,
           "player_a_rating_after": 1519,
           "player_b_rating_before": 1510,
           "player_b_rating_after": 1500
@@ -37558,7 +37558,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-06-30T22:56:19.161201",
+        "generated_at": "2026-06-30T23:24:33.965334",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -39294,7 +39294,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-06-30T22:56:23.179998",
+        "generated_at": "2026-06-30T23:24:37.989554",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
