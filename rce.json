@@ -3800,8 +3800,10 @@
             "team": "Crotalidae",
             "bot_url": "https://www.robotcombatevents.com/groups/1800/resources/7661",
             "team_url": "https://www.robotcombatevents.com/groups/1800",
-            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/7661/All_Photos_-_1_of_1.jpeg",
-            "weapons": []
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/7661/Clipboard_Aug_7__2026_at_3.39_PM.jpeg",
+            "weapons": [
+                "Spinner"
+            ]
         },
         "MAG": {
             "team": "High Energy Failures",
@@ -4819,8 +4821,10 @@
             "team": "Drum Roll",
             "bot_url": "https://www.robotcombatevents.com/groups/10747/resources/23698",
             "team_url": "https://www.robotcombatevents.com/groups/10747",
-            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/23698/IMG_0410.jpg",
-            "weapons": []
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/23698/Drum_Roll-Profile.png",
+            "weapons": [
+                "Spinner"
+            ]
         },
         "Glaive": {
             "team": "Alfa",
