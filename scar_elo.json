@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-08-10T10:55:16.718177",
+    "generated_at": "2026-08-10T11:01:30.923799",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-08-10T10:54:04.353141",
+        "generated_at": "2026-08-10T11:00:18.557909",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -8819,7 +8819,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-08-10T10:54:21.446039",
+        "generated_at": "2026-08-10T11:00:35.639763",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -9815,20 +9815,6 @@
           ]
         },
         {
-          "name": "Briklot",
-          "current_rating": 1501,
-          "fights": 5,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1501,
-            1503,
-            1504,
-            1503,
-            1501
-          ]
-        },
-        {
           "name": "MAD DRAGON",
           "current_rating": 1501,
           "fights": 5,
@@ -9838,6 +9824,20 @@
             1498,
             1500,
             1501,
+            1503,
+            1501
+          ]
+        },
+        {
+          "name": "Briklot",
+          "current_rating": 1501,
+          "fights": 5,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1501,
+            1503,
+            1504,
             1503,
             1501
           ]
@@ -15823,7 +15823,7 @@
           "player_a_rating_before": 1532,
           "player_a_rating_after": 1547,
           "player_b_rating_before": 1512,
-          "player_b_rating_after": 1496
+          "player_b_rating_after": 1497
         },
         {
           "event": "MFOC1lb2025",
@@ -15900,7 +15900,7 @@
           "timestamp": "2025-09-13T21:28:47",
           "player_a": "Sabre",
           "player_b": "No Name",
-          "player_a_rating_before": 1496,
+          "player_a_rating_before": 1497,
           "player_a_rating_after": 1482,
           "player_b_rating_before": 1527,
           "player_b_rating_after": 1542
@@ -16876,7 +16876,7 @@
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-08-10T10:54:42.552756",
+        "generated_at": "2026-08-10T11:00:56.750152",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -28462,7 +28462,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-08-10T10:54:57.628989",
+        "generated_at": "2026-08-10T11:01:11.833992",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -35072,7 +35072,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-08-10T10:55:05.666668",
+        "generated_at": "2026-08-10T11:01:19.869223",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -37558,7 +37558,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-08-10T10:55:12.696536",
+        "generated_at": "2026-08-10T11:01:26.903062",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -39294,7 +39294,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-08-10T10:55:16.718141",
+        "generated_at": "2026-08-10T11:01:30.923771",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
