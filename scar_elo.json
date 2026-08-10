@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-08-10T10:41:35.658413",
+    "generated_at": "2026-08-10T10:55:16.718177",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-08-10T10:40:23.310697",
+        "generated_at": "2026-08-10T10:54:04.353141",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -441,9 +441,9 @@
             1545,
             1555,
             1565,
-            1556,
+            1555,
             1569,
-            1583,
+            1582,
             1597,
             1612,
             1594,
@@ -6154,7 +6154,7 @@
           "player_a": "Pineapple Surprise",
           "player_b": "Veni Vidi Vici",
           "player_a_rating_before": 1512,
-          "player_a_rating_after": 1508,
+          "player_a_rating_after": 1509,
           "player_b_rating_before": 1519,
           "player_b_rating_after": 1523
         },
@@ -6203,7 +6203,7 @@
           "timestamp": "2025-01-05T20:14:36",
           "player_a": "Pineapple Surprise",
           "player_b": "Slapcrackers",
-          "player_a_rating_before": 1508,
+          "player_a_rating_before": 1509,
           "player_a_rating_after": 1515,
           "player_b_rating_before": 1500,
           "player_b_rating_after": 1494
@@ -8819,7 +8819,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-08-10T10:40:40.390118",
+        "generated_at": "2026-08-10T10:54:21.446039",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -9233,7 +9233,7 @@
             1506,
             1509,
             1506,
-            1508,
+            1509,
             1506,
             1512,
             1506,
@@ -9314,7 +9314,7 @@
             1510,
             1517,
             1511,
-            1525,
+            1524,
             1539,
             1524,
             1538,
@@ -9434,7 +9434,7 @@
             1500,
             1484,
             1500,
-            1517,
+            1516,
             1532,
             1517
           ]
@@ -9927,19 +9927,6 @@
           ]
         },
         {
-          "name": "Mini Game",
-          "current_rating": 1500,
-          "fights": 4,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1506,
-            1500,
-            1506,
-            1500
-          ]
-        },
-        {
           "name": "ABYSS",
           "current_rating": 1500,
           "fights": 6,
@@ -9951,6 +9938,19 @@
             1510,
             1495,
             1511,
+            1500
+          ]
+        },
+        {
+          "name": "Mini Game",
+          "current_rating": 1500,
+          "fights": 4,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1506,
+            1500,
+            1506,
             1500
           ]
         },
@@ -10619,7 +10619,7 @@
             1495,
             1496,
             1498,
-            1497,
+            1496,
             1495
           ]
         },
@@ -10653,19 +10653,19 @@
           ]
         },
         {
-          "name": "Outbreak",
+          "name": "Sgt Poke",
           "current_rating": 1493,
           "fights": 3,
           "tier": "C",
           "rating_history": [
             1500,
             1493,
-            1499,
+            1500,
             1493
           ]
         },
         {
-          "name": "Sgt Poke",
+          "name": "Outbreak",
           "current_rating": 1493,
           "fights": 3,
           "tier": "C",
@@ -11167,7 +11167,7 @@
             1500,
             1494,
             1488,
-            1505,
+            1504,
             1487,
             1471,
             1457,
@@ -15051,7 +15051,7 @@
           "player_a": "MORB",
           "player_b": "Counter-Punch",
           "player_a_rating_before": 1487,
-          "player_a_rating_after": 1481,
+          "player_a_rating_after": 1482,
           "player_b_rating_before": 1505,
           "player_b_rating_after": 1511
         },
@@ -16876,7 +16876,7 @@
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-08-10T10:41:01.493747",
+        "generated_at": "2026-08-10T10:54:42.552756",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -28462,7 +28462,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-08-10T10:41:16.572970",
+        "generated_at": "2026-08-10T10:54:57.628989",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -29104,11 +29104,11 @@
             1500,
             1502,
             1499,
-            1504,
+            1505,
             1510,
             1505,
             1510,
-            1515,
+            1516,
             1510,
             1525,
             1509,
@@ -35072,7 +35072,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-08-10T10:41:24.611622",
+        "generated_at": "2026-08-10T10:55:05.666668",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -37558,7 +37558,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-08-10T10:41:31.634663",
+        "generated_at": "2026-08-10T10:55:12.696536",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -39294,7 +39294,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-08-10T10:41:35.658373",
+        "generated_at": "2026-08-10T10:55:16.718141",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
