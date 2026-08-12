@@ -1105,7 +1105,9 @@
             "bot_url": "https://www.robotcombatevents.com/groups/318/resources/1873",
             "team_url": "https://www.robotcombatevents.com/groups/318",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/1873/image.png",
-            "weapons": []
+            "weapons": [
+                "Spinner"
+            ]
         },
         "The Last Ronin": {
             "team": "Tortoise Robotics",
