@@ -1853,7 +1853,7 @@
             "team": "Team BCB - Birb Combat Bots",
             "bot_url": "https://www.robotcombatevents.com/groups/12854/resources/27576",
             "team_url": "https://www.robotcombatevents.com/groups/12854",
-            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/27576/Screenshot_2026-08-12_7.36.49_AM.png",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/27576/20260911_213013.jpg",
             "weapons": [
                 "Spinner"
             ]
@@ -4186,7 +4186,7 @@
             "team": "Breakfast Conglomeration",
             "bot_url": "https://www.robotcombatevents.com/groups/3276/resources/12182",
             "team_url": "https://www.robotcombatevents.com/groups/3276",
-            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/12182/pancake_v3.png",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/12182/shufflecake.png",
             "weapons": [
                 "Spinner"
             ]
@@ -4204,7 +4204,7 @@
             "team": "NEET Labs",
             "bot_url": "https://www.robotcombatevents.com/groups/9487/resources/22553",
             "team_url": "https://www.robotcombatevents.com/groups/9487",
-            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/22553/Midrange_mk1_v67.png",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/22553/Untitled.png",
             "weapons": [
                 "Spinner"
             ]
@@ -4899,7 +4899,7 @@
             "team": "arctic",
             "bot_url": "https://www.robotcombatevents.com/groups/12461/resources/26954",
             "team_url": "https://www.robotcombatevents.com/groups/12461",
-            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/26954/Screenshot_2026-06-25_235046.png",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/26954/Screenshot_2026-08-26_190134.png",
             "weapons": [
                 "Wedge"
             ]
@@ -6059,7 +6059,7 @@
             "team": "Shadow Combat Robotics",
             "bot_url": "https://www.robotcombatevents.com/groups/2085/resources/10815",
             "team_url": "https://www.robotcombatevents.com/groups/2085",
-            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/10815/Screenshot_20260812_224016_Photos_2.jpg",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/10815/fragmentx-hero-413-20001ms.png",
             "weapons": [
                 "Spinner"
             ]
@@ -6439,6 +6439,33 @@
             "bot_url": "https://www.robotcombatevents.com/groups/1145/resources/25533",
             "team_url": "https://www.robotcombatevents.com/groups/1145",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/25533/IMG_1162.jpeg",
+            "weapons": [
+                "Spinner"
+            ]
+        },
+        "Shear Force": {
+            "team": "ACE Robotics @ UCI",
+            "bot_url": "https://www.robotcombatevents.com/groups/1983/resources/25540",
+            "team_url": "https://www.robotcombatevents.com/groups/1983",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-e342c43944dc31af35375e9aa523b4aa8ee5856dcd3d53d3b59e73dc64f06a89.png",
+            "weapons": [
+                "Spinner"
+            ]
+        },
+        "GigaWatt": {
+            "team": "Beyond Logic",
+            "bot_url": "https://www.robotcombatevents.com/groups/14288/resources/28649",
+            "team_url": "https://www.robotcombatevents.com/groups/14288",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/28649/WhatsApp_Image_2026-07-14_at_1.01.30_PM.jpeg",
+            "weapons": [
+                "Spinner"
+            ]
+        },
+        "Phenomenon": {
+            "team": "Bone Dead Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/774/resources/4421",
+            "team_url": "https://www.robotcombatevents.com/groups/774",
+            "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/4421/Screenshot_20260521-090550_Chrome.jpg",
             "weapons": [
                 "Spinner"
             ]
