@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-11-09T14:08:33.402429",
+    "generated_at": "2026-11-09T14:28:57.432419",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-11-09T14:07:07.603541",
+        "generated_at": "2026-11-09T14:27:35.022883",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -404,7 +404,7 @@
             1512,
             1517,
             1523,
-            1530,
+            1529,
             1536,
             1542,
             1548,
@@ -936,10 +936,10 @@
             1497,
             1503,
             1510,
-            1503,
+            1504,
             1517,
             1504,
-            1516,
+            1517,
             1530,
             1543,
             1530,
@@ -9428,7 +9428,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-11-09T14:07:26.700838",
+        "generated_at": "2026-11-09T14:27:54.112259",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -10754,19 +10754,6 @@
           ]
         },
         {
-          "name": "Mini Game",
-          "current_rating": 1500,
-          "fights": 4,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1503,
-            1500,
-            1503,
-            1500
-          ]
-        },
-        {
           "name": "Cake Batter",
           "current_rating": 1500,
           "fights": 12,
@@ -10810,6 +10797,19 @@
             1501,
             1503,
             1501,
+            1500
+          ]
+        },
+        {
+          "name": "Mini Game",
+          "current_rating": 1500,
+          "fights": 4,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1503,
+            1500,
+            1503,
             1500
           ]
         },
@@ -16522,7 +16522,7 @@
           "player_a": "Totality",
           "player_b": "Eepy",
           "player_a_rating_before": 1520,
-          "player_a_rating_after": 1511,
+          "player_a_rating_after": 1510,
           "player_b_rating_before": 1540,
           "player_b_rating_after": 1550
         },
@@ -16621,7 +16621,7 @@
           "timestamp": "2025-09-13T19:55:50",
           "player_a": "Totality",
           "player_b": "Lopper",
-          "player_a_rating_before": 1511,
+          "player_a_rating_before": 1510,
           "player_a_rating_after": 1498,
           "player_b_rating_before": 1534,
           "player_b_rating_after": 1546
@@ -18587,7 +18587,7 @@
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-11-09T14:07:50.189044",
+        "generated_at": "2026-11-09T14:28:17.230731",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -18648,7 +18648,7 @@
             1583,
             1592,
             1602,
-            1615,
+            1614,
             1626,
             1640,
             1650,
@@ -20204,7 +20204,7 @@
             1530,
             1523,
             1517,
-            1502,
+            1501,
             1514,
             1500
           ]
@@ -21800,20 +21800,8 @@
           ]
         },
         {
-          "name": "Loadout",
-          "current_rating": 1486,
-          "fights": 3,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1516,
-            1502,
-            1486
-          ]
-        },
-        {
           "name": "Popsicle",
-          "current_rating": 1485,
+          "current_rating": 1486,
           "fights": 8,
           "tier": "C",
           "rating_history": [
@@ -21825,7 +21813,19 @@
             1522,
             1515,
             1501,
-            1485
+            1486
+          ]
+        },
+        {
+          "name": "Loadout",
+          "current_rating": 1486,
+          "fights": 3,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1516,
+            1502,
+            1486
           ]
         },
         {
@@ -28411,7 +28411,7 @@
           "player_a_rating_before": 1492,
           "player_a_rating_after": 1486,
           "player_b_rating_before": 1534,
-          "player_b_rating_after": 1541
+          "player_b_rating_after": 1540
         },
         {
           "event": "PP2025Open",
@@ -28470,7 +28470,7 @@
           "player_b": "Planta",
           "player_a_rating_before": 1500,
           "player_a_rating_after": 1493,
-          "player_b_rating_before": 1541,
+          "player_b_rating_before": 1540,
           "player_b_rating_after": 1547
         },
         {
@@ -28989,7 +28989,7 @@
           "player_a": "Planta",
           "player_b": "Mod Bot",
           "player_a_rating_before": 1614,
-          "player_a_rating_after": 1599,
+          "player_a_rating_after": 1598,
           "player_b_rating_before": 1553,
           "player_b_rating_after": 1568
         },
@@ -29028,7 +29028,7 @@
           "timestamp": "2025-09-14T16:41:27",
           "player_a": "Planta",
           "player_b": "B-Annoyed",
-          "player_a_rating_before": 1599,
+          "player_a_rating_before": 1598,
           "player_a_rating_after": 1610,
           "player_b_rating_before": 1549,
           "player_b_rating_after": 1538
@@ -30779,7 +30779,7 @@
           "player_a": "Planta",
           "player_b": "Battle Duck",
           "player_a_rating_before": 1630,
-          "player_a_rating_after": 1641,
+          "player_a_rating_after": 1640,
           "player_b_rating_before": 1515,
           "player_b_rating_after": 1504
         },
@@ -30898,7 +30898,7 @@
           "timestamp": "2026-09-13T22:44:00",
           "player_a": "Planta",
           "player_b": "B-Annoyed",
-          "player_a_rating_before": 1641,
+          "player_a_rating_before": 1640,
           "player_a_rating_after": 1656,
           "player_b_rating_before": 1632,
           "player_b_rating_after": 1617
@@ -31444,7 +31444,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-11-09T14:08:11.296804",
+        "generated_at": "2026-11-09T14:28:35.333667",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -31566,7 +31566,7 @@
             1542,
             1531,
             1546,
-            1561,
+            1560,
             1544,
             1559,
             1575,
@@ -39415,7 +39415,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-11-09T14:08:20.341566",
+        "generated_at": "2026-11-09T14:28:44.376499",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -42138,7 +42138,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-11-09T14:08:28.384134",
+        "generated_at": "2026-11-09T14:28:52.414444",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -42297,7 +42297,7 @@
           "rating_history": [
             1500,
             1505,
-            1499,
+            1500,
             1505,
             1510,
             1515,
@@ -43278,7 +43278,7 @@
           "player_a": "Aethon",
           "player_b": "Propeller",
           "player_a_rating_before": 1505,
-          "player_a_rating_after": 1511,
+          "player_a_rating_after": 1510,
           "player_b_rating_before": 1502,
           "player_b_rating_after": 1497
         },
@@ -43359,7 +43359,7 @@
           "player_b": "Aethon",
           "player_a_rating_before": 1508,
           "player_a_rating_after": 1503,
-          "player_b_rating_before": 1511,
+          "player_b_rating_before": 1510,
           "player_b_rating_after": 1516
         },
         {
@@ -44040,7 +44040,7 @@
           "player_a_rating_before": 1566,
           "player_a_rating_after": 1580,
           "player_b_rating_before": 1510,
-          "player_b_rating_after": 1497
+          "player_b_rating_after": 1496
         },
         {
           "event": "MFOC30lb2026",
@@ -44093,7 +44093,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-11-09T14:08:33.402406",
+        "generated_at": "2026-11-09T14:28:57.432382",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -46229,7 +46229,7 @@
     },
     "scaryfairy": {
       "bracket_id": "scaryfairy",
-      "started_at": "2026-10-17T17:22:40",
+      "started_at": "2026-10-17T17:22:40.000+00:00",
       "standings": [
         {
           "name": "Torpedo",
@@ -46280,8 +46280,6 @@
           "rank": 12
         }
       ],
-      "source": "scarbattle",
-      "bracket_url": "https://scarbattle.net/view.php?slug=scaryfairy",
       "friendly_name": "SCAR-y Halloween 2026",
       "weight_class": "150g"
     },
@@ -49907,7 +49905,7 @@
     },
     "scaryplant": {
       "bracket_id": "scaryplant",
-      "started_at": "2026-10-17T17:27:31",
+      "started_at": "2026-10-17T17:27:31.000+00:00",
       "standings": [
         {
           "name": "B-Annoyed",
@@ -50014,8 +50012,6 @@
           "rank": 26
         }
       ],
-      "source": "scarbattle",
-      "bracket_url": "https://scarbattle.net/view.php?slug=scaryplant",
       "friendly_name": "SCAR-y Halloween 2026",
       "weight_class": "plant"
     },
@@ -51419,7 +51415,7 @@
     },
     "scarybeetle": {
       "bracket_id": "scarybeetle",
-      "started_at": "2026-10-17T17:29:17",
+      "started_at": "2026-10-17T17:29:17.000+00:00",
       "standings": [
         {
           "name": "Whopper",
@@ -51478,8 +51474,6 @@
           "rank": 14
         }
       ],
-      "source": "scarbattle",
-      "bracket_url": "https://scarbattle.net/view.php?slug=scarybeetle",
       "friendly_name": "SCAR-y Halloween 2026",
       "weight_class": "3lb"
     },
