@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-11-09T14:28:57.432419",
+    "generated_at": "2026-11-09T14:39:16.357187",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-11-09T14:27:35.022883",
+        "generated_at": "2026-11-09T14:37:53.937853",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -9428,7 +9428,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-11-09T14:27:54.112259",
+        "generated_at": "2026-11-09T14:38:13.036213",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -10050,7 +10050,7 @@
             1509,
             1506,
             1509,
-            1513,
+            1512,
             1516,
             1519,
             1522,
@@ -10188,7 +10188,7 @@
             1508,
             1518,
             1528,
-            1517,
+            1518,
             1527,
             1517
           ]
@@ -10754,6 +10754,19 @@
           ]
         },
         {
+          "name": "Mini Game",
+          "current_rating": 1500,
+          "fights": 4,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1503,
+            1500,
+            1503,
+            1500
+          ]
+        },
+        {
           "name": "Cake Batter",
           "current_rating": 1500,
           "fights": 12,
@@ -10797,19 +10810,6 @@
             1501,
             1503,
             1501,
-            1500
-          ]
-        },
-        {
-          "name": "Mini Game",
-          "current_rating": 1500,
-          "fights": 4,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1503,
-            1500,
-            1503,
             1500
           ]
         },
@@ -16222,7 +16222,7 @@
           "player_a": "The Bomb",
           "player_b": "Saurian",
           "player_a_rating_before": 1507,
-          "player_a_rating_after": 1504,
+          "player_a_rating_after": 1503,
           "player_b_rating_before": 1520,
           "player_b_rating_after": 1523
         },
@@ -16522,7 +16522,7 @@
           "player_a": "Totality",
           "player_b": "Eepy",
           "player_a_rating_before": 1520,
-          "player_a_rating_after": 1510,
+          "player_a_rating_after": 1511,
           "player_b_rating_before": 1540,
           "player_b_rating_after": 1550
         },
@@ -16611,7 +16611,7 @@
           "timestamp": "2025-09-13T19:49:44",
           "player_a": "The Bomb",
           "player_b": "Not Alive Yet",
-          "player_a_rating_before": 1504,
+          "player_a_rating_before": 1503,
           "player_a_rating_after": 1491,
           "player_b_rating_before": 1513,
           "player_b_rating_after": 1526
@@ -16621,7 +16621,7 @@
           "timestamp": "2025-09-13T19:55:50",
           "player_a": "Totality",
           "player_b": "Lopper",
-          "player_a_rating_before": 1510,
+          "player_a_rating_before": 1511,
           "player_a_rating_after": 1498,
           "player_b_rating_before": 1534,
           "player_b_rating_after": 1546
@@ -18587,7 +18587,7 @@
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-11-09T14:28:17.230731",
+        "generated_at": "2026-11-09T14:38:36.149262",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -19186,7 +19186,7 @@
             1545,
             1528,
             1543,
-            1527,
+            1526,
             1542,
             1558,
             1546,
@@ -20192,6 +20192,32 @@
           ]
         },
         {
+          "name": "SAC Daddy",
+          "current_rating": 1500,
+          "fights": 4,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1507,
+            1499,
+            1507,
+            1500
+          ]
+        },
+        {
+          "name": "Wedginald",
+          "current_rating": 1500,
+          "fights": 4,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1498,
+            1500,
+            1501,
+            1500
+          ]
+        },
+        {
           "name": "Pink Elephants On Parade",
           "current_rating": 1500,
           "fights": 9,
@@ -20206,19 +20232,6 @@
             1517,
             1501,
             1514,
-            1500
-          ]
-        },
-        {
-          "name": "Wedginald",
-          "current_rating": 1500,
-          "fights": 4,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1498,
-            1500,
-            1501,
             1500
           ]
         },
@@ -20262,19 +20275,6 @@
             1501,
             1503,
             1501,
-            1500
-          ]
-        },
-        {
-          "name": "SAC Daddy",
-          "current_rating": 1500,
-          "fights": 4,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1507,
-            1499,
-            1507,
             1500
           ]
         },
@@ -28481,7 +28481,7 @@
           "player_a_rating_before": 1492,
           "player_a_rating_after": 1485,
           "player_b_rating_before": 1500,
-          "player_b_rating_after": 1508
+          "player_b_rating_after": 1507
         },
         {
           "event": "PP2025Open",
@@ -28610,7 +28610,7 @@
           "player_b": "Weedwacker",
           "player_a_rating_before": 1500,
           "player_a_rating_after": 1508,
-          "player_b_rating_before": 1508,
+          "player_b_rating_before": 1507,
           "player_b_rating_after": 1500
         },
         {
@@ -31444,7 +31444,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-11-09T14:28:35.333667",
+        "generated_at": "2026-11-09T14:38:54.245837",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -32040,7 +32040,7 @@
             1499,
             1483,
             1500,
-            1517,
+            1516,
             1532,
             1517,
             1500,
@@ -33286,18 +33286,6 @@
           ]
         },
         {
-          "name": "Berry Blast",
-          "current_rating": 1486,
-          "fights": 3,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1516,
-            1501,
-            1486
-          ]
-        },
-        {
           "name": "Tropical Tumbler",
           "current_rating": 1486,
           "fights": 3,
@@ -33306,6 +33294,18 @@
             1500,
             1486,
             1499,
+            1486
+          ]
+        },
+        {
+          "name": "Berry Blast",
+          "current_rating": 1486,
+          "fights": 3,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1516,
+            1501,
             1486
           ]
         },
@@ -39415,7 +39415,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-11-09T14:28:44.376499",
+        "generated_at": "2026-11-09T14:39:03.294237",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -42138,7 +42138,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-11-09T14:28:52.414444",
+        "generated_at": "2026-11-09T14:39:11.333586",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -44093,7 +44093,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-11-09T14:28:57.432382",
+        "generated_at": "2026-11-09T14:39:16.357166",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
