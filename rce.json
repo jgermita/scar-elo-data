@@ -296,9 +296,7 @@
             "bot_url": "https://www.robotcombatevents.com/groups/1878/resources/21924",
             "team_url": "https://www.robotcombatevents.com/groups/1878",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/21924/20251001_134235.jpg",
-            "weapons": [
-                "Spinner"
-            ]
+            "weapons": []
         },
         "Sunset": {
             "team": "Level 5 Robotics",
@@ -1679,9 +1677,7 @@
             "bot_url": "https://www.robotcombatevents.com/groups/11406/resources/25548",
             "team_url": "https://www.robotcombatevents.com/groups/11406",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/25548/IMG_2633.jpeg",
-            "weapons": [
-                "Spinner"
-            ]
+            "weapons": []
         },
         "Therapy": {
             "team": "Sadistic Tendencies Expressed Mechanically (STEM)",
@@ -1742,9 +1738,7 @@
             "bot_url": "https://www.robotcombatevents.com/groups/11511/resources/25841",
             "team_url": "https://www.robotcombatevents.com/groups/11511",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/25841/Screenshot_2026-07-15_10.45.46_PM.png",
-            "weapons": [
-                "Spinner"
-            ]
+            "weapons": []
         },
         "Tiny aggression": {
             "team": "Team Reaper",
@@ -1811,9 +1805,7 @@
             "bot_url": "https://www.robotcombatevents.com/groups/14291/resources/28656",
             "team_url": "https://www.robotcombatevents.com/groups/14291",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/28656/IMG_2975.jpeg",
-            "weapons": [
-                "Spinner"
-            ]
+            "weapons": []
         },
         "Starstruck": {
             "team": "[Undefined] Robotics",
@@ -2655,9 +2647,7 @@
             "bot_url": "https://www.robotcombatevents.com/groups/4504/resources/22459",
             "team_url": "https://www.robotcombatevents.com/groups/4504",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/22459/Spinning_Sand_-_bot-rce-icon.png",
-            "weapons": [
-                "Spinner"
-            ]
+            "weapons": []
         },
         "Milk": {
             "team": "STUPID robots",
@@ -3301,11 +3291,7 @@
             "bot_url": "https://www.robotcombatevents.com/groups/327/resources/7861",
             "team_url": "https://www.robotcombatevents.com/groups/327",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/7861/SP_02.png",
-            "weapons": [
-                "Clamper",
-                "Lifter",
-                "Wedge"
-            ]
+            "weapons": []
         },
         "Count Quakula": {
             "team": "Crux Robotics",
@@ -3576,9 +3562,7 @@
             "bot_url": "https://www.robotcombatevents.com/groups/11106/resources/25435",
             "team_url": "https://www.robotcombatevents.com/groups/11106",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/25435/Eliminator_v2_small.jpeg",
-            "weapons": [
-                "Spinner"
-            ]
+            "weapons": []
         },
         "Dracula's Revenge": {
             "team": "ACE Robotics @ UCI",
@@ -3612,9 +3596,7 @@
             "bot_url": "https://www.robotcombatevents.com/groups/10522/resources/24349",
             "team_url": "https://www.robotcombatevents.com/groups/10522",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/24349/Untitled__1000_x_1000_px_.jpg",
-            "weapons": [
-                "Spinner"
-            ]
+            "weapons": []
         },
         "Scout": {
             "team": "Team Peariso",
@@ -3684,9 +3666,7 @@
             "bot_url": "https://www.robotcombatevents.com/groups/1140/resources/24365",
             "team_url": "https://www.robotcombatevents.com/groups/1140",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/24365/IMG_5187.jpg",
-            "weapons": [
-                "Spinner"
-            ]
+            "weapons": []
         },
         "Dragster": {
             "team": "PART_LW",
@@ -4075,9 +4055,7 @@
             "bot_url": "https://www.robotcombatevents.com/groups/2317/resources/12288",
             "team_url": "https://www.robotcombatevents.com/groups/2317",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/12288/IMG_20250911_211753.jpg",
-            "weapons": [
-                "Clamper"
-            ]
+            "weapons": []
         },
         "Baby aggression": {
             "team": "Team Reaper",
@@ -4527,9 +4505,7 @@
             "bot_url": "https://www.robotcombatevents.com/groups/11397/resources/25522",
             "team_url": "https://www.robotcombatevents.com/groups/11397",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/25522/Screenshot_2026-07-29_12.38.08_AM.png",
-            "weapons": [
-                "Spinner"
-            ]
+            "weapons": []
         },
         "WIP": {
             "team": "Bravo Zulu",
@@ -4571,19 +4547,14 @@
             "bot_url": "https://www.robotcombatevents.com/groups/3778/resources/23774",
             "team_url": "https://www.robotcombatevents.com/groups/3778",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/23774/IMG_3106-ezgif.com-gif-to-apng-converter.png",
-            "weapons": [
-                "Spinner",
-                "Wedge"
-            ]
+            "weapons": []
         },
         "Monarch": {
             "team": "Doohickey Robotics",
             "bot_url": "https://www.robotcombatevents.com/groups/3778/resources/21820",
             "team_url": "https://www.robotcombatevents.com/groups/3778",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/21820/IMG_0999_2.jpeg",
-            "weapons": [
-                "Spinner"
-            ]
+            "weapons": []
         },
         "Mizery": {
             "team": "Team Thagomizer",
@@ -4853,9 +4824,7 @@
             "bot_url": "https://www.robotcombatevents.com/groups/9487/resources/26195",
             "team_url": "https://www.robotcombatevents.com/groups/9487",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/26195/balaluga_mk1_v16.png",
-            "weapons": [
-                "Spinner"
-            ]
+            "weapons": []
         },
         "Golden Wind": {
             "team": "RC Robotics",
@@ -5465,9 +5434,7 @@
             "bot_url": "https://www.robotcombatevents.com/groups/7910/resources/19377",
             "team_url": "https://www.robotcombatevents.com/groups/7910",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/19377/IMG_8408.png",
-            "weapons": [
-                "Spinner"
-            ]
+            "weapons": []
         },
         "Circular Reasoning": {
             "team": "Team A.C.E.",
@@ -5937,10 +5904,7 @@
             "bot_url": "https://www.robotcombatevents.com/groups/9487/resources/25414",
             "team_url": "https://www.robotcombatevents.com/groups/9487",
             "img_url": "https://robotcombatevents.s3.amazonaws.com/uploads/resource/photo/25414/thegaming_mk4_v47.png",
-            "weapons": [
-                "Spinner",
-                "Wedge"
-            ]
+            "weapons": []
         },
         "Slice To Meet You": {
             "team": "ProTeam",
