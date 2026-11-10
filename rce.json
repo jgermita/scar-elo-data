@@ -4126,6 +4126,20 @@
             "team_url": "https://www.robotcombatevents.com/groups/1746",
             "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/23844/evil_guineapig.png",
             "weapons": []
+        },
+        "Rubble": {
+            "team": "Team Mudhorn",
+            "bot_url": "https://www.robotcombatevents.com/groups/1694/resources/12307",
+            "team_url": "https://www.robotcombatevents.com/groups/1694",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-e342c43944dc31af35375e9aa523b4aa8ee5856dcd3d53d3b59e73dc64f06a89.png",
+            "weapons": []
+        },
+        "Cake": {
+            "team": "B. S. Industries",
+            "bot_url": "https://www.robotcombatevents.com/groups/2395/resources/21544",
+            "team_url": "https://www.robotcombatevents.com/groups/2395",
+            "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/21544/isalie2.png",
+            "weapons": []
         }
     },
     "150g": {
@@ -5340,6 +5354,41 @@
             "bot_url": "https://www.robotcombatevents.com/groups/14602/resources/28875",
             "team_url": "https://www.robotcombatevents.com/groups/14602",
             "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/28875/PXL_20260404_095515083.jpg",
+            "weapons": []
+        },
+        "Disney Villian-temp": {
+            "team": "SCAR: Clash at the Comb-2026",
+            "bot_url": "https://www.robotcombatevents.com/groups/11534/resources/25878",
+            "team_url": "https://www.robotcombatevents.com/groups/11534",
+            "img_url": "https://www.robotcombatevents.com/assets/placeholder-ed2e68159606cba2c1a64a08242113c72b3ef34b6528f6380a23ff32f5edf989.png",
+            "weapons": []
+        },
+        "FunnyBot": {
+            "team": "Dinobots",
+            "bot_url": "https://www.robotcombatevents.com/groups/1799/resources/6028",
+            "team_url": "https://www.robotcombatevents.com/groups/1799",
+            "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/6028/Slipper-oblique-side-right-sq-jpg-500__1_.jpeg",
+            "weapons": []
+        },
+        "Max versmacken": {
+            "team": "Team plan b",
+            "bot_url": "https://www.robotcombatevents.com/groups/313/resources/6527",
+            "team_url": "https://www.robotcombatevents.com/groups/313",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-e342c43944dc31af35375e9aa523b4aa8ee5856dcd3d53d3b59e73dc64f06a89.png",
+            "weapons": []
+        },
+        "Needs Wheelguards": {
+            "team": "High Energy Failures",
+            "bot_url": "https://www.robotcombatevents.com/groups/1063/resources/6380",
+            "team_url": "https://www.robotcombatevents.com/groups/1063",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-e342c43944dc31af35375e9aa523b4aa8ee5856dcd3d53d3b59e73dc64f06a89.png",
+            "weapons": []
+        },
+        "Rage": {
+            "team": "Level 5 Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/318/resources/6302",
+            "team_url": "https://www.robotcombatevents.com/groups/318",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-e342c43944dc31af35375e9aa523b4aa8ee5856dcd3d53d3b59e73dc64f06a89.png",
             "weapons": []
         }
     },

@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-11-09T15:27:51.772765",
+    "generated_at": "2026-11-09T16:09:07.492552",
     "generator": "SCAR_ELO Calculator",
     "version": "1.0"
   },
   "weight_classes": {
     "150g": {
       "metadata": {
-        "generated_at": "2026-11-09T15:26:29.348189",
+        "generated_at": "2026-11-09T16:07:45.079718",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -91,7 +91,7 @@
             1636,
             1649,
             1633,
-            1646,
+            1645,
             1630,
             1641,
             1651,
@@ -7393,7 +7393,7 @@
           "player_a": "Ditto",
           "player_b": "Torpedo",
           "player_a_rating_before": 1546,
-          "player_a_rating_after": 1558,
+          "player_a_rating_after": 1557,
           "player_b_rating_before": 1480,
           "player_b_rating_after": 1468
         },
@@ -7474,7 +7474,7 @@
           "player_b": "Ditto",
           "player_a_rating_before": 1501,
           "player_a_rating_after": 1489,
-          "player_b_rating_before": 1558,
+          "player_b_rating_before": 1557,
           "player_b_rating_after": 1570
         },
         {
@@ -8235,7 +8235,7 @@
           "player_a_rating_before": 1494,
           "player_a_rating_after": 1510,
           "player_b_rating_before": 1503,
-          "player_b_rating_after": 1486
+          "player_b_rating_after": 1487
         },
         {
           "event": "MMM26Fairy",
@@ -8444,7 +8444,7 @@
           "player_b": "Pineapple Surprise",
           "player_a_rating_before": 1517,
           "player_a_rating_after": 1532,
-          "player_b_rating_before": 1486,
+          "player_b_rating_before": 1487,
           "player_b_rating_after": 1472
         },
         {
@@ -9428,7 +9428,7 @@
     },
     "1lb": {
       "metadata": {
-        "generated_at": "2026-11-09T15:26:48.446329",
+        "generated_at": "2026-11-09T16:08:04.169070",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -9438,18 +9438,18 @@
       },
       "summary": {
         "total_fights": 678,
-        "total_robots": 154,
-        "average_fights_per_robot": 4.402597402597403,
+        "total_robots": 153,
+        "average_fights_per_robot": 4.431372549019608,
         "mean_rating": 1502,
         "median_rating": 1498,
-        "standard_deviation": 30.6,
+        "standard_deviation": 30.7,
         "tier_thresholds": {
-          "S": 1563,
-          "A": 1531,
-          "B": 1515,
-          "C": 1484,
-          "D": 1468,
-          "F": 1436
+          "S": 1564,
+          "A": 1532,
+          "B": 1516,
+          "C": 1483,
+          "D": 1467,
+          "F": 1435
         }
       },
       "robots": [
@@ -10535,21 +10535,6 @@
           ]
         },
         {
-          "name": "Shock Wave",
-          "current_rating": 1503,
-          "fights": 6,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1498,
-            1499,
-            1501,
-            1503,
-            1504,
-            1503
-          ]
-        },
-        {
           "name": "Cheese Grater",
           "current_rating": 1502,
           "fights": 14,
@@ -10637,6 +10622,24 @@
             1501,
             1499,
             1501,
+            1503,
+            1501
+          ]
+        },
+        {
+          "name": "Shockwave",
+          "current_rating": 1501,
+          "fights": 9,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1498,
+            1499,
+            1501,
+            1503,
+            1504,
+            1503,
+            1504,
             1503,
             1501
           ]
@@ -10915,18 +10918,6 @@
             1499,
             1503,
             1499
-          ]
-        },
-        {
-          "name": "Shockwave",
-          "current_rating": 1498,
-          "fights": 3,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1501,
-            1500,
-            1498
           ]
         },
         {
@@ -12049,7 +12040,7 @@
           "name": "Cool Jack",
           "current_rating": 1468,
           "fights": 2,
-          "tier": "F",
+          "tier": "D",
           "rating_history": [
             1500,
             1484,
@@ -12679,7 +12670,7 @@
         {
           "event": "DUTS23Ants",
           "timestamp": "2023-07-08T19:35:55",
-          "player_a": "Shock Wave",
+          "player_a": "Shockwave",
           "player_b": "Saurian",
           "player_a_rating_before": 1500,
           "player_a_rating_after": 1498,
@@ -12729,7 +12720,7 @@
         {
           "event": "DUTS23Ants",
           "timestamp": "2023-07-08T21:53:59",
-          "player_a": "Shock Wave",
+          "player_a": "Shockwave",
           "player_b": "Chopper",
           "player_a_rating_before": 1498,
           "player_a_rating_after": 1500,
@@ -12780,7 +12771,7 @@
           "event": "DUTS23Ants",
           "timestamp": "2023-07-08T23:16:04",
           "player_a": "Queso Qiller",
-          "player_b": "Shock Wave",
+          "player_b": "Shockwave",
           "player_a_rating_before": 1500,
           "player_a_rating_after": 1498,
           "player_b_rating_before": 1500,
@@ -12800,7 +12791,7 @@
           "event": "DUTS23Ants",
           "timestamp": "2023-07-08T23:55:47",
           "player_a": "Sabre",
-          "player_b": "Shock Wave",
+          "player_b": "Shockwave",
           "player_a_rating_before": 1495,
           "player_a_rating_after": 1494,
           "player_b_rating_before": 1502,
@@ -12809,7 +12800,7 @@
         {
           "event": "DUTS23Ants",
           "timestamp": "2023-07-09T00:10:06",
-          "player_a": "Shock Wave",
+          "player_a": "Shockwave",
           "player_b": "Saurian",
           "player_a_rating_before": 1503,
           "player_a_rating_after": 1505,
@@ -12820,7 +12811,7 @@
           "event": "DUTS23Ants",
           "timestamp": "2023-07-09T01:03:08",
           "player_a": "Rusty Shakleford",
-          "player_b": "Shock Wave",
+          "player_b": "Shockwave",
           "player_a_rating_before": 1502,
           "player_a_rating_after": 1503,
           "player_b_rating_before": 1505,
@@ -15793,8 +15784,8 @@
           "player_b": "Shockwave",
           "player_a_rating_before": 1495,
           "player_a_rating_after": 1494,
-          "player_b_rating_before": 1500,
-          "player_b_rating_after": 1502
+          "player_b_rating_before": 1503,
+          "player_b_rating_after": 1505
         },
         {
           "event": "scarhalloween1lb2024",
@@ -15813,8 +15804,8 @@
           "player_b": "Shockwave",
           "player_a_rating_before": 1533,
           "player_a_rating_after": 1534,
-          "player_b_rating_before": 1502,
-          "player_b_rating_after": 1500
+          "player_b_rating_before": 1505,
+          "player_b_rating_after": 1503
         },
         {
           "event": "scarhalloween1lb2024",
@@ -15861,8 +15852,8 @@
           "timestamp": "2024-10-26T16:21:40",
           "player_a": "Shockwave",
           "player_b": "Scorch",
-          "player_a_rating_before": 1500,
-          "player_a_rating_after": 1499,
+          "player_a_rating_before": 1503,
+          "player_a_rating_after": 1502,
           "player_b_rating_before": 1502,
           "player_b_rating_after": 1503
         },
@@ -18560,7 +18551,7 @@
       "tier_distribution": {
         "S": {
           "count": 7,
-          "percentage": 4.5
+          "percentage": 4.6
         },
         "A": {
           "count": 8,
@@ -18571,23 +18562,23 @@
           "percentage": 5.2
         },
         "C": {
-          "count": 106,
-          "percentage": 68.8
+          "count": 105,
+          "percentage": 68.6
         },
         "D": {
-          "count": 18,
-          "percentage": 11.7
+          "count": 19,
+          "percentage": 12.4
         },
         "F": {
-          "count": 7,
-          "percentage": 4.5
+          "count": 6,
+          "percentage": 3.9
         }
       },
       "weight_class": "1lb"
     },
     "plant": {
       "metadata": {
-        "generated_at": "2026-11-09T15:27:11.567023",
+        "generated_at": "2026-11-09T16:08:27.297852",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -18650,7 +18641,7 @@
             1602,
             1614,
             1626,
-            1640,
+            1639,
             1650,
             1660,
             1672,
@@ -18662,7 +18653,7 @@
             1705,
             1686,
             1699,
-            1682,
+            1681,
             1690,
             1667,
             1677,
@@ -18883,9 +18874,9 @@
             1507,
             1510,
             1507,
-            1511,
+            1510,
             1514,
-            1521,
+            1520,
             1527,
             1534,
             1540,
@@ -18992,7 +18983,7 @@
             1574,
             1592,
             1579,
-            1593,
+            1592,
             1607,
             1588,
             1571,
@@ -19871,19 +19862,6 @@
           ]
         },
         {
-          "name": "Skibidi Slicer",
-          "current_rating": 1503,
-          "fights": 4,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1514,
-            1502,
-            1516,
-            1503
-          ]
-        },
-        {
           "name": "Furious_2",
           "current_rating": 1503,
           "fights": 4,
@@ -19893,6 +19871,19 @@
             1516,
             1499,
             1514,
+            1503
+          ]
+        },
+        {
+          "name": "Skibidi Slicer",
+          "current_rating": 1503,
+          "fights": 4,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1514,
+            1502,
+            1516,
             1503
           ]
         },
@@ -20192,19 +20183,6 @@
           ]
         },
         {
-          "name": "SAC Daddy",
-          "current_rating": 1500,
-          "fights": 4,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1507,
-            1499,
-            1507,
-            1500
-          ]
-        },
-        {
           "name": "Wedginald",
           "current_rating": 1500,
           "fights": 4,
@@ -20214,6 +20192,24 @@
             1498,
             1500,
             1501,
+            1500
+          ]
+        },
+        {
+          "name": "Pink Elephants On Parade",
+          "current_rating": 1500,
+          "fights": 9,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1507,
+            1514,
+            1522,
+            1530,
+            1523,
+            1517,
+            1501,
+            1513,
             1500
           ]
         },
@@ -20261,20 +20257,15 @@
           ]
         },
         {
-          "name": "Pink Elephants On Parade",
+          "name": "SAC Daddy",
           "current_rating": 1500,
-          "fights": 9,
+          "fights": 4,
           "tier": "C",
           "rating_history": [
             1500,
             1507,
-            1514,
-            1522,
-            1530,
-            1523,
-            1517,
-            1501,
-            1513,
+            1499,
+            1507,
             1500
           ]
         },
@@ -20969,7 +20960,7 @@
             1512,
             1511,
             1507,
-            1510,
+            1511,
             1514,
             1517,
             1514,
@@ -21484,6 +21475,18 @@
           ]
         },
         {
+          "name": "Frostbyte",
+          "current_rating": 1493,
+          "fights": 3,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1493,
+            1501,
+            1493
+          ]
+        },
+        {
           "name": "Araknos",
           "current_rating": 1493,
           "fights": 8,
@@ -21523,18 +21526,6 @@
             1498,
             1496,
             1495,
-            1493
-          ]
-        },
-        {
-          "name": "Frostbyte",
-          "current_rating": 1493,
-          "fights": 3,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1493,
-            1501,
             1493
           ]
         },
@@ -21800,8 +21791,20 @@
           ]
         },
         {
-          "name": "Popsicle",
+          "name": "Loadout",
           "current_rating": 1486,
+          "fights": 3,
+          "tier": "C",
+          "rating_history": [
+            1500,
+            1516,
+            1502,
+            1486
+          ]
+        },
+        {
+          "name": "Popsicle",
+          "current_rating": 1485,
           "fights": 8,
           "tier": "C",
           "rating_history": [
@@ -21813,19 +21816,7 @@
             1522,
             1515,
             1501,
-            1486
-          ]
-        },
-        {
-          "name": "Loadout",
-          "current_rating": 1486,
-          "fights": 3,
-          "tier": "C",
-          "rating_history": [
-            1500,
-            1516,
-            1502,
-            1486
+            1485
           ]
         },
         {
@@ -22415,12 +22406,12 @@
             1494,
             1491,
             1478,
-            1493,
+            1494,
             1479,
             1464,
             1449,
             1436,
-            1454,
+            1455,
             1441
           ]
         },
@@ -27581,7 +27572,7 @@
           "player_a_rating_before": 1495,
           "player_a_rating_after": 1492,
           "player_b_rating_before": 1492,
-          "player_b_rating_after": 1495
+          "player_b_rating_after": 1496
         },
         {
           "event": "cubeboticscombatplants",
@@ -27620,7 +27611,7 @@
           "player_b": "Danger Zone",
           "player_a_rating_before": 1497,
           "player_a_rating_after": 1500,
-          "player_b_rating_before": 1495,
+          "player_b_rating_before": 1496,
           "player_b_rating_after": 1492
         },
         {
@@ -27669,7 +27660,7 @@
           "player_a": "Zippleback",
           "player_b": "Hunter Bot",
           "player_a_rating_before": 1505,
-          "player_a_rating_after": 1509,
+          "player_a_rating_after": 1508,
           "player_b_rating_before": 1499,
           "player_b_rating_after": 1496
         },
@@ -27708,10 +27699,10 @@
           "timestamp": "2025-01-05T19:58:36",
           "player_a": "Zippleback",
           "player_b": "Planta",
-          "player_a_rating_before": 1509,
+          "player_a_rating_before": 1508,
           "player_a_rating_after": 1505,
           "player_b_rating_before": 1507,
-          "player_b_rating_after": 1511
+          "player_b_rating_after": 1510
         },
         {
           "event": "cubeboticscombatplants",
@@ -27778,7 +27769,7 @@
           "timestamp": "2025-01-05T20:49:03",
           "player_a": "Planta",
           "player_b": "Killer Beeze",
-          "player_a_rating_before": 1511,
+          "player_a_rating_before": 1510,
           "player_a_rating_after": 1508,
           "player_b_rating_before": 1560,
           "player_b_rating_after": 1563
@@ -27929,7 +27920,7 @@
           "player_a": "Hunter Bot",
           "player_b": "Leo Bot",
           "player_a_rating_before": 1492,
-          "player_a_rating_after": 1487,
+          "player_a_rating_after": 1486,
           "player_b_rating_before": 1521,
           "player_b_rating_after": 1526
         },
@@ -27941,7 +27932,7 @@
           "player_a_rating_before": 1500,
           "player_a_rating_after": 1494,
           "player_b_rating_before": 1511,
-          "player_b_rating_after": 1518
+          "player_b_rating_after": 1517
         },
         {
           "event": "LAMF25PLANT",
@@ -27969,7 +27960,7 @@
           "player_a": "Horzor",
           "player_b": "Fork Knife",
           "player_a_rating_before": 1505,
-          "player_a_rating_after": 1498,
+          "player_a_rating_after": 1499,
           "player_b_rating_before": 1494,
           "player_b_rating_after": 1501
         },
@@ -27998,7 +27989,7 @@
           "timestamp": "2025-04-12T20:48:28",
           "player_a": "Zippleback",
           "player_b": "Danger Zone",
-          "player_a_rating_before": 1518,
+          "player_a_rating_before": 1517,
           "player_a_rating_after": 1511,
           "player_b_rating_before": 1499,
           "player_b_rating_after": 1505
@@ -28048,7 +28039,7 @@
           "timestamp": "2025-04-12T21:16:29",
           "player_a": "Hunter Bot",
           "player_b": "Fork Knife",
-          "player_a_rating_before": 1487,
+          "player_a_rating_before": 1486,
           "player_a_rating_after": 1480,
           "player_b_rating_before": 1501,
           "player_b_rating_after": 1507
@@ -28149,7 +28140,7 @@
           "player_a": "Planta",
           "player_b": "Leo Bot",
           "player_a_rating_before": 1534,
-          "player_a_rating_after": 1541,
+          "player_a_rating_after": 1540,
           "player_b_rating_before": 1538,
           "player_b_rating_after": 1532
         },
@@ -28198,7 +28189,7 @@
           "timestamp": "2025-04-13T00:40:43",
           "player_a": "Planta",
           "player_b": "Drumstick",
-          "player_a_rating_before": 1541,
+          "player_a_rating_before": 1540,
           "player_a_rating_after": 1534,
           "player_b_rating_before": 1546,
           "player_b_rating_after": 1552
@@ -28549,7 +28540,7 @@
           "player_a": "Plifter",
           "player_b": "Planta",
           "player_a_rating_before": 1520,
-          "player_a_rating_after": 1513,
+          "player_a_rating_after": 1514,
           "player_b_rating_before": 1554,
           "player_b_rating_after": 1561
         },
@@ -28729,7 +28720,7 @@
           "player_a": "Mimikyu",
           "player_b": "B-Annoyed",
           "player_a_rating_before": 1512,
-          "player_a_rating_after": 1505,
+          "player_a_rating_after": 1504,
           "player_b_rating_before": 1524,
           "player_b_rating_after": 1531
         },
@@ -28840,7 +28831,7 @@
           "player_b": "Mimikyu",
           "player_a_rating_before": 1502,
           "player_a_rating_after": 1515,
-          "player_b_rating_before": 1505,
+          "player_b_rating_before": 1504,
           "player_b_rating_after": 1491
         },
         {
@@ -28941,7 +28932,7 @@
           "player_a_rating_before": 1502,
           "player_a_rating_after": 1516,
           "player_b_rating_before": 1506,
-          "player_b_rating_after": 1493
+          "player_b_rating_after": 1492
         },
         {
           "event": "MFOCPlant2025",
@@ -28969,7 +28960,7 @@
           "player_a": "Zippleback",
           "player_b": "Mimikyu",
           "player_a_rating_before": 1505,
-          "player_a_rating_after": 1519,
+          "player_a_rating_after": 1518,
           "player_b_rating_before": 1503,
           "player_b_rating_after": 1490
         },
@@ -29008,7 +28999,7 @@
           "timestamp": "2025-09-14T16:21:29",
           "player_a": "Zippleback",
           "player_b": "B-Annoyed",
-          "player_a_rating_before": 1519,
+          "player_a_rating_before": 1518,
           "player_a_rating_after": 1506,
           "player_b_rating_before": 1536,
           "player_b_rating_after": 1549
@@ -29021,7 +29012,7 @@
           "player_a_rating_before": 1568,
           "player_a_rating_after": 1557,
           "player_b_rating_before": 1615,
-          "player_b_rating_after": 1627
+          "player_b_rating_after": 1626
         },
         {
           "event": "MFOCPlant2025",
@@ -29058,7 +29049,7 @@
           "timestamp": "2025-09-14T17:27:08",
           "player_a": "Drumstick",
           "player_b": "Planta",
-          "player_a_rating_before": 1627,
+          "player_a_rating_before": 1626,
           "player_a_rating_after": 1640,
           "player_b_rating_before": 1632,
           "player_b_rating_after": 1618
@@ -29341,7 +29332,7 @@
           "player_a_rating_before": 1538,
           "player_a_rating_after": 1525,
           "player_b_rating_before": 1571,
-          "player_b_rating_after": 1585
+          "player_b_rating_after": 1584
         },
         {
           "event": "2spookyplant",
@@ -29350,7 +29341,7 @@
           "player_b": "Danger Zone",
           "player_a_rating_before": 1563,
           "player_a_rating_after": 1549,
-          "player_b_rating_before": 1585,
+          "player_b_rating_before": 1584,
           "player_b_rating_after": 1598
         },
         {
@@ -29359,7 +29350,7 @@
           "player_a": "Killer Beeze",
           "player_b": "Danger Zone",
           "player_a_rating_before": 1610,
-          "player_a_rating_after": 1595,
+          "player_a_rating_after": 1594,
           "player_b_rating_before": 1598,
           "player_b_rating_after": 1613
         },
@@ -29449,7 +29440,7 @@
           "player_a": "Danger Zone",
           "player_b": "Lopper Bot",
           "player_a_rating_before": 1613,
-          "player_a_rating_after": 1626,
+          "player_a_rating_after": 1625,
           "player_b_rating_before": 1528,
           "player_b_rating_after": 1516
         },
@@ -29468,7 +29459,7 @@
           "timestamp": "2026-03-21T18:55:07",
           "player_a": "Killer Beeze",
           "player_b": "Fanta",
-          "player_a_rating_before": 1595,
+          "player_a_rating_before": 1594,
           "player_a_rating_after": 1607,
           "player_b_rating_before": 1509,
           "player_b_rating_after": 1497
@@ -29558,7 +29549,7 @@
           "timestamp": "2026-03-21T20:57:05",
           "player_a": "Danger Zone",
           "player_b": "Short Circuit",
-          "player_a_rating_before": 1626,
+          "player_a_rating_before": 1625,
           "player_a_rating_after": 1637,
           "player_b_rating_before": 1516,
           "player_b_rating_after": 1505
@@ -29810,7 +29801,7 @@
           "player_b": "Horzor",
           "player_a_rating_before": 1500,
           "player_a_rating_after": 1484,
-          "player_b_rating_before": 1498,
+          "player_b_rating_before": 1499,
           "player_b_rating_after": 1515
         },
         {
@@ -29929,7 +29920,7 @@
           "player_a": "B-Annoyed",
           "player_b": "Larry The Lobster",
           "player_a_rating_before": 1531,
-          "player_a_rating_after": 1545,
+          "player_a_rating_after": 1544,
           "player_b_rating_before": 1471,
           "player_b_rating_after": 1458
         },
@@ -30010,7 +30001,7 @@
           "player_b": "B-Annoyed",
           "player_a_rating_before": 1515,
           "player_a_rating_after": 1500,
-          "player_b_rating_before": 1545,
+          "player_b_rating_before": 1544,
           "player_b_rating_after": 1559
         },
         {
@@ -30189,7 +30180,7 @@
           "player_a": "Drumstick",
           "player_b": "Dragster",
           "player_a_rating_before": 1651,
-          "player_a_rating_after": 1665,
+          "player_a_rating_after": 1664,
           "player_b_rating_before": 1589,
           "player_b_rating_after": 1576
         },
@@ -30200,7 +30191,7 @@
           "player_b": "Drumstick",
           "player_a_rating_before": 1588,
           "player_a_rating_after": 1575,
-          "player_b_rating_before": 1665,
+          "player_b_rating_before": 1664,
           "player_b_rating_after": 1677
         },
         {
@@ -30949,7 +30940,7 @@
           "player_a": "Zippleback",
           "player_b": "Mini Twister",
           "player_a_rating_before": 1589,
-          "player_a_rating_after": 1605,
+          "player_a_rating_after": 1604,
           "player_b_rating_before": 1585,
           "player_b_rating_after": 1569
         },
@@ -30960,7 +30951,7 @@
           "player_b": "Zippleback",
           "player_a_rating_before": 1701,
           "player_a_rating_after": 1712,
-          "player_b_rating_before": 1605,
+          "player_b_rating_before": 1604,
           "player_b_rating_after": 1593
         },
         {
@@ -31279,7 +31270,7 @@
           "player_a": "Mod Bot",
           "player_b": "Party Pooper",
           "player_a_rating_before": 1524,
-          "player_a_rating_after": 1507,
+          "player_a_rating_after": 1506,
           "player_b_rating_before": 1501,
           "player_b_rating_after": 1518
         },
@@ -31399,7 +31390,7 @@
           "player_a": "Zippleback",
           "player_b": "Thumbsup",
           "player_a_rating_before": 1639,
-          "player_a_rating_after": 1621,
+          "player_a_rating_after": 1620,
           "player_b_rating_before": 1577,
           "player_b_rating_after": 1596
         },
@@ -31408,7 +31399,7 @@
           "timestamp": "2026-10-17T23:45:37",
           "player_a": "Zippleback",
           "player_b": "Sica",
-          "player_a_rating_before": 1621,
+          "player_a_rating_before": 1620,
           "player_a_rating_after": 1634,
           "player_b_rating_before": 1574,
           "player_b_rating_after": 1560
@@ -31444,7 +31435,7 @@
     },
     "3lb": {
       "metadata": {
-        "generated_at": "2026-11-09T15:27:29.655968",
+        "generated_at": "2026-11-09T16:08:45.391774",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -31562,7 +31553,7 @@
             1515,
             1502,
             1515,
-            1530,
+            1529,
             1542,
             1531,
             1546,
@@ -31633,11 +31624,11 @@
             1556,
             1541,
             1552,
-            1537,
+            1538,
             1551,
             1565,
             1580,
-            1594,
+            1595,
             1578
           ]
         },
@@ -32040,7 +32031,7 @@
             1499,
             1483,
             1500,
-            1516,
+            1517,
             1532,
             1517,
             1500,
@@ -32663,7 +32654,7 @@
             1499,
             1483,
             1499,
-            1516,
+            1515,
             1499
           ]
         },
@@ -38662,7 +38653,7 @@
           "player_a_rating_before": 1566,
           "player_a_rating_after": 1580,
           "player_b_rating_before": 1534,
-          "player_b_rating_after": 1519
+          "player_b_rating_after": 1520
         },
         {
           "event": "DUTS26BEETLE",
@@ -38719,7 +38710,7 @@
           "timestamp": "2026-08-16T02:45:20",
           "player_a": "Helltongue",
           "player_b": "Fragment X",
-          "player_a_rating_before": 1519,
+          "player_a_rating_before": 1520,
           "player_a_rating_after": 1504,
           "player_b_rating_before": 1533,
           "player_b_rating_after": 1549
@@ -38942,7 +38933,7 @@
           "player_a_rating_before": 1495,
           "player_a_rating_after": 1480,
           "player_b_rating_before": 1518,
-          "player_b_rating_after": 1532
+          "player_b_rating_after": 1533
         },
         {
           "event": "MFOC3lb2026",
@@ -39001,7 +38992,7 @@
           "player_b": "Helltongue",
           "player_a_rating_before": 1622,
           "player_a_rating_after": 1634,
-          "player_b_rating_before": 1532,
+          "player_b_rating_before": 1533,
           "player_b_rating_after": 1521
         },
         {
@@ -39415,7 +39406,7 @@
     },
     "12lb": {
       "metadata": {
-        "generated_at": "2026-11-09T15:27:38.702424",
+        "generated_at": "2026-11-09T16:08:54.428363",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -42138,7 +42129,7 @@
     },
     "30lb": {
       "metadata": {
-        "generated_at": "2026-11-09T15:27:46.747439",
+        "generated_at": "2026-11-09T16:09:02.469793",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -43698,7 +43689,7 @@
           "player_a": "Te-Cat-E",
           "player_b": "Drum Roll",
           "player_a_rating_before": 1501,
-          "player_a_rating_after": 1516,
+          "player_a_rating_after": 1517,
           "player_b_rating_before": 1500,
           "player_b_rating_after": 1484
         },
@@ -43719,7 +43710,7 @@
           "player_b": "Te-Cat-E",
           "player_a_rating_before": 1526,
           "player_a_rating_after": 1510,
-          "player_b_rating_before": 1516,
+          "player_b_rating_before": 1517,
           "player_b_rating_after": 1533
         },
         {
@@ -44093,7 +44084,7 @@
     },
     "30lb_sportsman": {
       "metadata": {
-        "generated_at": "2026-11-09T15:27:51.772744",
+        "generated_at": "2026-11-09T16:09:07.492509",
         "generator": "SCAR_ELO Calculator",
         "version": "1.0",
         "elo_parameters": {
@@ -46402,7 +46393,7 @@
           "rank": 2
         },
         {
-          "name": "Shock Wave",
+          "name": "Shockwave",
           "rank": 3
         },
         {
