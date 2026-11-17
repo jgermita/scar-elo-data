@@ -4140,6 +4140,118 @@
             "team_url": "https://www.robotcombatevents.com/groups/2395",
             "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/21544/isalie2.png",
             "weapons": []
+        },
+        "Tilly the Tortoise": {
+            "team": "[Undefined] Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/14281/resources/34028",
+            "team_url": "https://www.robotcombatevents.com/groups/14281",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-e342c43944dc31af35375e9aa523b4aa8ee5856dcd3d53d3b59e73dc64f06a89.png",
+            "weapons": []
+        },
+        "Corn Pop": {
+            "team": "STUPID robots",
+            "bot_url": "https://www.robotcombatevents.com/groups/2317/resources/27407",
+            "team_url": "https://www.robotcombatevents.com/groups/2317",
+            "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/27407/IMG_20260906_164559.jpg",
+            "weapons": []
+        },
+        "SHPEbox": {
+            "team": "RoboSHPE",
+            "bot_url": "https://www.robotcombatevents.com/groups/19565/resources/39694",
+            "team_url": "https://www.robotcombatevents.com/groups/19565",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-e342c43944dc31af35375e9aa523b4aa8ee5856dcd3d53d3b59e73dc64f06a89.png",
+            "weapons": []
+        },
+        "Vengeance": {
+            "team": "Fedora Combat Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/17376/resources/39762",
+            "team_url": "https://www.robotcombatevents.com/groups/17376",
+            "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/39762/VengeanceLogo.png",
+            "weapons": []
+        },
+        "DUMPSTER DIVER": {
+            "team": "Team Hangry",
+            "bot_url": "https://www.robotcombatevents.com/groups/17386/resources/39766",
+            "team_url": "https://www.robotcombatevents.com/groups/17386",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-e342c43944dc31af35375e9aa523b4aa8ee5856dcd3d53d3b59e73dc64f06a89.png",
+            "weapons": []
+        },
+        "The King's Hammer": {
+            "team": "The Royal Smiths",
+            "bot_url": "https://www.robotcombatevents.com/groups/18793/resources/37740",
+            "team_url": "https://www.robotcombatevents.com/groups/18793",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-e342c43944dc31af35375e9aa523b4aa8ee5856dcd3d53d3b59e73dc64f06a89.png",
+            "weapons": []
+        },
+        "Accretion Disk": {
+            "team": "Highlander Combat Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/19611/resources/39776",
+            "team_url": "https://www.robotcombatevents.com/groups/19611",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-e342c43944dc31af35375e9aa523b4aa8ee5856dcd3d53d3b59e73dc64f06a89.png",
+            "weapons": []
+        },
+        "Janky": {
+            "team": "Caltech Robotics Team",
+            "bot_url": "https://www.robotcombatevents.com/groups/11617/resources/39785",
+            "team_url": "https://www.robotcombatevents.com/groups/11617",
+            "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/39785/Janky.png",
+            "weapons": []
+        },
+        "Melty": {
+            "team": "Combat Robotics at UCR",
+            "bot_url": "https://www.robotcombatevents.com/groups/19620/resources/39790",
+            "team_url": "https://www.robotcombatevents.com/groups/19620",
+            "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/39790/melty.png",
+            "weapons": []
+        },
+        "PARTY  POOPER": {
+            "team": "KILLJOY",
+            "bot_url": "https://www.robotcombatevents.com/groups/10643/resources/39719",
+            "team_url": "https://www.robotcombatevents.com/groups/10643",
+            "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/39719/Party_Pooper_Anime.jpg",
+            "weapons": []
+        },
+        "Alien": {
+            "team": "Restart Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/1174/resources/26700",
+            "team_url": "https://www.robotcombatevents.com/groups/1174",
+            "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/26700/new_3_.png",
+            "weapons": []
+        },
+        "Ploober": {
+            "team": "Full Send",
+            "bot_url": "https://www.robotcombatevents.com/groups/3092/resources/39635",
+            "team_url": "https://www.robotcombatevents.com/groups/3092",
+            "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/39635/IMG_9931.jpg",
+            "weapons": []
+        },
+        "Suprise!": {
+            "team": "LCEC",
+            "bot_url": "https://www.robotcombatevents.com/groups/11122/resources/39796",
+            "team_url": "https://www.robotcombatevents.com/groups/11122",
+            "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/39796/Screenshot_2026-10-20_161421.png",
+            "weapons": []
+        },
+        "bot-1": {
+            "team": "Combat Robotics at UC Riverside",
+            "bot_url": "https://www.robotcombatevents.com/groups/19622/resources/39800",
+            "team_url": "https://www.robotcombatevents.com/groups/19622",
+            "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/39800/bot-picture.png",
+            "weapons": []
+        },
+        "Turbulence ST": {
+            "team": "Bridge Combat Robot",
+            "bot_url": "https://www.robotcombatevents.com/groups/19558/resources/39907",
+            "team_url": "https://www.robotcombatevents.com/groups/19558",
+            "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/39907/IMG_5743.jpeg",
+            "weapons": []
+        },
+        "Vanta": {
+            "team": "Team Kodiak",
+            "bot_url": "https://www.robotcombatevents.com/groups/1779/resources/24589",
+            "team_url": "https://www.robotcombatevents.com/groups/1779",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-e342c43944dc31af35375e9aa523b4aa8ee5856dcd3d53d3b59e73dc64f06a89.png",
+            "weapons": []
         }
     },
     "150g": {
@@ -5389,6 +5501,41 @@
             "bot_url": "https://www.robotcombatevents.com/groups/318/resources/6302",
             "team_url": "https://www.robotcombatevents.com/groups/318",
             "img_url": "https://www.robotcombatevents.com/assets/RCELogo-e342c43944dc31af35375e9aa523b4aa8ee5856dcd3d53d3b59e73dc64f06a89.png",
+            "weapons": []
+        },
+        "Turtlely Unskilled": {
+            "team": "Luminary Robotics",
+            "bot_url": "https://www.robotcombatevents.com/groups/8408/resources/26040",
+            "team_url": "https://www.robotcombatevents.com/groups/8408",
+            "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/26040/IMG_1285.jpeg",
+            "weapons": []
+        },
+        "mrrp": {
+            "team": "Flagship Combat Robotics (ASME at UCLA)",
+            "bot_url": "https://www.robotcombatevents.com/groups/1145/resources/39634",
+            "team_url": "https://www.robotcombatevents.com/groups/1145",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-e342c43944dc31af35375e9aa523b4aa8ee5856dcd3d53d3b59e73dc64f06a89.png",
+            "weapons": []
+        },
+        "B-yond Repair": {
+            "team": "Team Krusher",
+            "bot_url": "https://www.robotcombatevents.com/groups/2561/resources/24037",
+            "team_url": "https://www.robotcombatevents.com/groups/2561",
+            "img_url": "https://www.robotcombatevents.com/assets/RCELogo-e342c43944dc31af35375e9aa523b4aa8ee5856dcd3d53d3b59e73dc64f06a89.png",
+            "weapons": []
+        },
+        "Shinbreaker_V3": {
+            "team": "3lb Combat Robotics (ASME @ UCLA)",
+            "bot_url": "https://www.robotcombatevents.com/groups/19685/resources/39954",
+            "team_url": "https://www.robotcombatevents.com/groups/19685",
+            "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/39954/image_2026-10-25_153026189.png",
+            "weapons": []
+        },
+        "Dozer": {
+            "team": "AJM",
+            "bot_url": "https://www.robotcombatevents.com/groups/19813/resources/40343",
+            "team_url": "https://www.robotcombatevents.com/groups/19813",
+            "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/40343/IMG_4598.jpg",
             "weapons": []
         }
     },
