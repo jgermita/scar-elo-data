@@ -4492,9 +4492,7 @@
             "bot_url": "https://www.robotcombatevents.com/groups/736/resources/3248",
             "team_url": "https://www.robotcombatevents.com/groups/736",
             "img_url": "https://images.robotcombatevents.com/uploads/resource/photo/3248/C803A5FE-CCE5-4E56-8B1F-8C80CBD0D471.jpeg",
-            "weapons": [
-                "Other"
-            ]
+            "weapons": []
         },
         "Meteor": {
             "team": "Orange Eyeball Slicers",
